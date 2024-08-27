@@ -18,7 +18,7 @@ con la informacion que nos interesa y los link
 <div class="code-example" markdown="1">
     
 
-    
+HOLA MUNDO    
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Sep 10     | `1`{: .fw-700 .fs-5} `Introducción`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[1](https://inferentialthinking.com/chapters/01/what-is-data-science.html) - [1.1](https://inferentialthinking.com/chapters/01/1/intro.html) - [1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html) - [1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html) - [1.3.1](https://inferentialthinking.com/chapters/01/3/1/Literary_Characters.html) - [1.3.2](https://inferentialthinking.com/chapters/01/3/2/Another_Kind_Of_Character.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1XB6396BotwlPRN_YhX8pTVMRWGOsrQg47A5Ip5av0Xo/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/login?next=%2Fhub%2Fhome){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Lab01: Expresiones](http://localhost:8000/user/hernan.salinas/lab/tree/FundCienDatosMaterial_year_semestre_dev/lab/lab01/lab01_td.ipynb){: .label .label-green .float-left  }<br> `(Entrega Feb 21)`{: .label .label-yellow} <br><br>|
