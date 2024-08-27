@@ -1,63 +1,123 @@
 ---
 layout: default
 title: Politicas
-nav_order: 4
+nav_order: 3
+
+---
+<!-- 
+# Configuration
+
+
+Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+{: .fs-6 .fw-300 }
+
+
 ---
 
+View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
-# Metodología
+## Site logo
 
-La metodología del curso de métodos computacionales para físicos busca en el estudiante la practica constante, por ello 
-se realizaran actividades, laboratorios y parciales a lo largo del semestre. En algunas sesiones de clases, se dejarán 
-lectura previas a clase para que puedan ser discutidas durante las clases teóricas.
-
-
-
-# Evaluación del curso.
-
-La evaluación está diseñada para fomentar en el estudiante el cuestionamiento continuo y retroalimentación rápida. El objetivo de las actividades de clase es poner en práctica lo comunicado por el profesor y los elementos básicos de la teoría. Se realizarán actividades constantes en las sesiones de clase. Toda evaluación del curso es acumulativa. 
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+ -->
 
 
 
 
-
-|Tipo| Porcentaje|
-|----|-------|
-|Tareas (Hasta dos actividades semanales)|	 20%|
-|Laboratorios  (Hasta 12 laboratorios)	| 20%
-|Proyecto : Anteproyecto, Exposición, Desarrolo     |20%|
-|3 Parciales 	 |40%|
+# Generalidades con Curso 
 
 
+Se espera que algunos aspectos del curso tarden en dominarse, y la mejor manera de dominar el material desafiante es hacer preguntas y trabajar en las tareas y laboratorios. Para las preguntas, emple la plataforma de classroom, allí un 
+instructor o el profesor estarán solucionando sus dudas. Su asistencia a las clase de los viernes será su principal punto de contacto para todas las preguntas/aclaraciones relacionadas con el curso. 
 
-|Evaluación| Unidades|
-|----|-------|
-|1| 10%	 Unidad 1, 2|
-|2| 15% Unidad 1, 2, 3, 4 |
-|3| 15% Todo el curso|
+Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán. 
 
 
-
-# Proyecto
-
-El proyecto se realizará máximo  parejas, deberá existir un anteproyecto discutivo previamente con el profesor, en el anteproyecto se deberá especificar el objetivo central del proyecto y tres objetivos específicos, se entregará la semana número 12 del curso a través del git hub en el formato suministrado por el profesor. Al final de semestre se realizará una exposicion del proyecto con todos los compañeros, duración de exposición máximo 10min. 
+# Componetnes del curso
 
 
-|Objetivo| Metodología|
-|----|-------|
-|General     | |
-|Especifico 1| Metodología para resolver el objetivo 1|
-|Especifico 2| Metodología para resolver el objetivo 2|
-|Especifico 3| Metodología para resolver el objetivo 3|
+## Clases Magistrales.
+
+El curso se impartirá los Martes y Jueves de 4:10pm a 5:10pm, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero. 
+ 
+
+## Clases con instructor. 
+
+
+Las sesiones con el instructor se llevarán a cabo los días viernes en los siguientes horarios:
+
+
+| Grupo | Hora        | Día     |
+|-------|-------------|---------|
+| 1     | 8:00 - 10:00| Viernes |
+| 2     | 10:00 - 12:00| Viernes |
+| 3     | 12:00 - 14:00| Viernes |
+| 4     | 14:00 - 16:00| Viernes |
+| 5     | 16:00 - 18:00| Viernes |
+| 6     | 18:00 - 20:00| Viernes |
+
+
+Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas sobre el laboratorio. La segunda hora, estará destinada a abordar consultas y avances relacionados con las tareas y/o proyectos.
+
+
+## Entrega de laboratorios
+
+Los laboratorios se públican en la pagina web del curso  YYYYYYYYY el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en Gradescope. 
+
+
+## Entrega de tareas
+
+Las tareas se publican, el día Miércoles, el plazo de entrega es el  miércoles  de la siguiente semana antes de las 8pm.
 
 
 
+## Presentación tarde tareas
+
+La fecha límite para todas las tareas de este curso es a las 8 PM. Las presentaciones después de este tiempo se aceptarán durante la siguientes 24 horas y tiene una penalización del  20%. No se aceptará ninguna presentación de más de 24 horas después de la fecha límite.
 
 
-# Exposición
+### Extension de entrega de tareas.
 
-1. Introduccion 
-2. Problema 
-3. Métodos Computacionales
-4. Analisis de resultados
-5. Conclusiones  
+La fecha de entrega de las tareas podrá extenderse sin penalización si se solicita con al menos tres días hábiles de anticipación, siempre que la solicitud esté debidamente justificada y respaldada. Para ello, pide el formulario a tu instructor y coordina con él el nuevo plazo de entrega. Asegúrate de enviar las solicitudes de extensión antes de la fecha límite para garantizar una respuesta oportuna. La extensión máxima permitida será de 2 días.
+
+Las solicitudes que no cumplan con estas directrices estarán sujetas a una revisión más detallada y podrían requerir una reunión con el equipo del curso o ser denegadas.
+
+Esperamos que esta política te anime a comunicar cualquier dificultad de forma proactiva, brindando flexibilidad ante circunstancias imprevistas.
+
+
+## Presentación de examenes
+
+Al semestre realizaremos dos examenes: un examen parcial y un examen final. En cada examen tendremos un supletorio, este último, se presentará con excusa
+justificada con su profesor de laboratorio. 
+
+
+# Porcentaje de Evaluación 
+
+| Actividad            | Porcentaje |
+|----------------------|------------|
+| Laboratorio          | 10%        |
+| Tareas               | 20%        |
+| Proyectos            | 25%        |
+| Examen Parcial       | 15%        |
+| Examen Final         | 30%        |
+
+
+# Honestidad con el curso
+
+Se deberá escribir  las respuesta de las tareas, proyectos y laboratorios  
+con tus propias palabras y no compartir el trabajo terminado con ningún compañero, este aspecto es dificil de seguir para los profesosres e instructores, por eso desde el equipo de trabajo de este curso, confiamos en su honestidad a la hora de realizar sus trabajos.  
+
+La  excepción a esta regla,  es que puedes compartir todo lo relacionado con un **proyecto** con tu compañero (si tienes uno). Del mismo modo, si asistes a una sesión de laboratorio y tienes un compañero de laboratorio, puedes compartir todo lo relacionado con el  laboratorio con él.
+
+Se recomienda que se realice un  esfuerzo **serio** por resolver cada tarea por tu cuenta. Si estas en dificultades, se recomienda revisar: el libro de texto, repasar las clases y las discusiones del laboratorio. Si después de eso sigues teniendo dudas, discútelas con tus compañeros, y después con los intructores del curso. Así aprovecharás al máximo las discusiones. Es importante que tengas claro los límites de la colaboración con tus companeros, puedes discutir los conceptos del curso y los enfoques para resolver problemas con otros estudiantes. Sin embargo, **no debes compartir tu código ni tus respuestas**. Hacerlo se considera una falta académica. Compartir respuestas los pondrá en una situación complicada en su formación.
+
+Además, está prohibido publicar contenido del curso, como tareas, proyectos o exámenes, en sitios web de terceros o enviar tus respuestas a foros externos. Esto también se considera una falta académica.
+
+No está permitido que entregues respuestas o código que hayas obtenido de otras personas o de fuentes en línea. Esto incluye herramientas de IA generativa como ChatGPT. Utilizar estas fuentes no solo se considera una falta académica, sino que también va en contra de los objetivos pedagógicos de la tarea. Debes resolver los problemas utilizando los recursos proporcionados en el curso. Nunca debes consultar ni tener en tu poder soluciones de otros estudiantes o de semestres anteriores.
+
+Las sanciones por faltas académicas, por copia son estrictas con el curso. Las consecuencias podrían incluir un 0 en el curso o incluso la expulsión de la universidad.
+
+Todos enfrentamos desafíos, aunque muchos traten de no mostrarlo. Incluso si no dominas por completo todo lo que se cubre en el curso, podrás construir sobre lo que aprendas. Si haces trampa, no tendrás una base sólida para el futuro. No se espera que seas perfecto; está bien no obtener siempre un 5.
