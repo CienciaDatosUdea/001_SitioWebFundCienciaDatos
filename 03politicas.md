@@ -33,8 +33,6 @@ logo: "/assets/images/just-the-docs.png"
 Se espera que algunos aspectos del curso tarden en dominarse, y la mejor manera de dominar el material desafiante es hacer preguntas y trabajar en las tareas y laboratorios. Para las preguntas, emple la plataforma de classroom, allí un 
 profesor estarán solucionando sus dudas. Su asistencia a las clase de los viernes será su principal punto de contacto para todas las preguntas/aclaraciones relacionadas con el curso. 
 
-Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán. 
-
 
 # Componentes del curso
 
