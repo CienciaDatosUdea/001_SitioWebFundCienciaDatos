@@ -92,11 +92,9 @@ La fecha límite para todas las tareas de este curso es a las 8 PM. Las presenta
 
 ### Extension de entrega de tareas.
 
-La fecha de entrega de las tareas podrá extenderse sin penalización si se solicita con al menos tres días hábiles de anticipación, siempre que la solicitud esté debidamente justificada y respaldada. Para ello, pide el formulario a tu instructor y coordina con él el nuevo plazo de entrega. Asegúrate de enviar las solicitudes de extensión antes de la fecha límite para garantizar una respuesta oportuna. La extensión máxima permitida será de 2 días.
+La fecha de entrega de las tareas podrá extenderse sin penalización si se solicita con al menos tres días hábiles de anticipación, siempre que la solicitud esté debidamente justificada y respaldada. Para ello, pide el formulario a tu instructor y coordina con él el nuevo plazo de entrega. Asegúrate de enviar las solicitudes de extensión antes de la fecha límite para garantizar una respuesta oportuna. La extensión máxima permitida será de 2 días, en casos extremos se definirá con su intructor la nueva fecha de entrega.
 
-Las solicitudes que no cumplan con estas directrices estarán sujetas a una revisión más detallada y podrían requerir una reunión con el equipo del curso o ser denegadas.
-
-Esperamos que esta política te anime a comunicar cualquier dificultad de forma proactiva, brindando flexibilidad ante circunstancias imprevistas.
+Las solicitudes que no cumplan con estas directrices estarán sujetas a una revisión más detallada. Esperamos que esta política te anime a comunicar cualquier dificultad de forma proactiva, brindando flexibilidad ante circunstancias imprevistas.
 
 
 ## Presentación de examenes
