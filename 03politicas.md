@@ -52,12 +52,16 @@ Las sesiones con el instructor se llevarán a cabo los días viernes en los sigu
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| 1     | 8:00 - 10:00| Viernes |Practica|Sala computadores|
-| 2     | 10:00 - 12:00| Viernes |Practica|Sala computadores|
-| 3     | 12:00 - 14:00| Viernes |Practica|Sala computadores|
-| 4     | 14:00 - 16:00| Viernes |Practica|Sala computadores|
-| 5     | 16:00 - 18:00| Viernes |Practica|Sala computadores|
-| 6     | 18:00 - 20:00| Viernes |Practica|Sala computadores|
+| Todos | 14:00 - 16:00| Martes-Jueves |Teórica|3-107|
+
+| Grupo | Hora        | Día     | Tipo|Lugar|
+|-------|-------------|---------|--------|----|
+| 1     | 8:00 - 10:00| Viernes |Práctica|Sala computadores|
+| 2     | 10:00 - 12:00| Viernes |Práctica|Sala computadores|
+| 3     | 12:00 - 14:00| Viernes |Práctica|Sala computadores|
+| 4     | 14:00 - 16:00| Viernes |Práctica|Sala computadores|
+| 5     | 16:00 - 18:00| Viernes |Práctica|Sala computadores|
+| 6     | 18:00 - 20:00| Viernes |Práctica|Sala computadores|
 
 
 Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas sobre el laboratorio. La segunda hora, estará destinada a abordar consultas y avances relacionados con las tareas y/o proyectos.
