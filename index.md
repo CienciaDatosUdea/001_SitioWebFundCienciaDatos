@@ -59,6 +59,8 @@ nav_order: 1
 | Oct 17     | `16`{: .fw-700 .fs-5} `Modelos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html)--[10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html)--[10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 06]( www.cdudea/org/hub/user-redirect/git-pull?repo=https://github.com/CienciaDatosUdea/001_EstudianteFundCienciaDatos/semestre2024-2&branch=main&subPath=hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`(Entrega Oct 25)`{: .label .label-yellow} <br><br>|
 
 
+Semana 7 a la 16 ...En construcción
+
 <div>
     
 En construcción: Basado en http://www.data8.org/zero-to-data-8/intro.html#types-of-content
