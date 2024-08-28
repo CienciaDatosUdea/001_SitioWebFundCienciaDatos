@@ -46,13 +46,19 @@ El curso se impartirá los Martes y Jueves de 4:10pm a 5:10pm, se recomienda ing
 
 ## Clases con instructor. 
 
+Se llevarán dos tipos de sesiones unas teórica y otra práctica
 
-Las sesiones con el instructor se llevarán a cabo los días viernes en los siguientes horarios:
 
+### Sesiones teóricas
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| Todos | 14:00 - 16:00| Martes-Jueves |Teórica|3-107|
+| Todos | 16:00 - 18:00| Martes-Jueves |Teórica|3-107|
+
+Tiempo estimado de sesión 1h, 1h-20min
+
+### Sesiones prácticas
+
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
@@ -63,6 +69,7 @@ Las sesiones con el instructor se llevarán a cabo los días viernes en los sigu
 | 5     | 16:00 - 18:00| Viernes |Práctica|Sala computadores|
 | 6     | 18:00 - 20:00| Viernes |Práctica|Sala computadores|
 
+Tiempo estimado de sesión 2h
 
 Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas sobre el laboratorio. La segunda hora, estará destinada a abordar consultas y avances relacionados con las tareas y/o proyectos.
 
