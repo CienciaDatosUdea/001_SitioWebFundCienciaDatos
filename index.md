@@ -5,11 +5,9 @@ layout: home
 nav_order: 1
 ---
 
-Construcción: Basado en http://www.data8.org/zero-to-data-8/intro.html#types-of-content
 
 Este es el curso de ciencia de datos aca deberia ir una tabla 
 con la informacion que nos interesa y los link 
-
 
 
 [Libro guia](https://inferentialthinking.com/chapters/intro.html{: .btn .fs-5 .mb-4 .mb-md-0})
@@ -66,6 +64,7 @@ con la informacion que nos interesa y los link
 
 <div>
     
-    
+En construcción: Basado en http://www.data8.org/zero-to-data-8/intro.html#types-of-content
+
     
     
