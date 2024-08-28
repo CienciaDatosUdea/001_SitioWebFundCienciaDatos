@@ -27,7 +27,7 @@ logo: "/assets/images/just-the-docs.png"
 
 
 
-# Generalidades con Curso 
+# Generalidades
 
 
 Se espera que algunos aspectos del curso tarden en dominarse, y la mejor manera de dominar el material desafiante es hacer preguntas y trabajar en las tareas y laboratorios. Para las preguntas, emple la plataforma de classroom, allí un 
@@ -36,12 +36,12 @@ instructor o el profesor estarán solucionando sus dudas. Su asistencia a las cl
 Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán. 
 
 
-# Componetnes del curso
+# Componentes del curso
 
 
 ## Clases Magistrales.
 
-El curso se impartirá los Martes y Jueves de 4:10pm a 5:10pm, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero. 
+El curso se impartirá los Martes y Jueves de 4:10pm a 5:10pm, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero con computador. 
  
 
 ## Clases con instructor. 
@@ -50,14 +50,14 @@ El curso se impartirá los Martes y Jueves de 4:10pm a 5:10pm, se recomienda ing
 Las sesiones con el instructor se llevarán a cabo los días viernes en los siguientes horarios:
 
 
-| Grupo | Hora        | Día     |
-|-------|-------------|---------|
-| 1     | 8:00 - 10:00| Viernes |
-| 2     | 10:00 - 12:00| Viernes |
-| 3     | 12:00 - 14:00| Viernes |
-| 4     | 14:00 - 16:00| Viernes |
-| 5     | 16:00 - 18:00| Viernes |
-| 6     | 18:00 - 20:00| Viernes |
+| Grupo | Hora        | Día     | Tipo|Lugar|
+|-------|-------------|---------|--------|----|
+| 1     | 8:00 - 10:00| Viernes |Practica|Sala computadores|
+| 2     | 10:00 - 12:00| Viernes |Practica|Sala computadores|
+| 3     | 12:00 - 14:00| Viernes |Practica|Sala computadores|
+| 4     | 14:00 - 16:00| Viernes |Practica|Sala computadores|
+| 5     | 16:00 - 18:00| Viernes |Practica|Sala computadores|
+| 6     | 18:00 - 20:00| Viernes |Practica|Sala computadores|
 
 
 Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas sobre el laboratorio. La segunda hora, estará destinada a abordar consultas y avances relacionados con las tareas y/o proyectos.
