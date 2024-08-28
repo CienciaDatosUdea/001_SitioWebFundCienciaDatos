@@ -31,7 +31,7 @@ logo: "/assets/images/just-the-docs.png"
 
 
 Se espera que algunos aspectos del curso tarden en dominarse, y la mejor manera de dominar el material desafiante es hacer preguntas y trabajar en las tareas y laboratorios. Para las preguntas, emple la plataforma de classroom, allí un 
-instructor o el profesor estarán solucionando sus dudas. Su asistencia a las clase de los viernes será su principal punto de contacto para todas las preguntas/aclaraciones relacionadas con el curso. 
+profesor estarán solucionando sus dudas. Su asistencia a las clase de los viernes será su principal punto de contacto para todas las preguntas/aclaraciones relacionadas con el curso. 
 
 Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán. 
 
@@ -41,21 +41,14 @@ Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán
 
 ## Clases Magistrales.
 
-El curso se impartirá los Martes y Jueves de 4:10pm a 5:10pm, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero con computador. 
+El curso se impartirá los Martes y Jueves de 4:10pm a 5:30pm aproximadamente, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero con computador. 
  
-
-## Clases con instructor. 
-
-Se llevarán dos tipos de sesiones unas teórica y otra práctica
-
-
-### Sesiones teóricas
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
 | Todos | 16:00 - 18:00| Martes-Jueves |Teórica|3-107|
 
-Tiempo estimado de sesión 1h, 1h-20min
+
 
 ### Sesiones prácticas
 
@@ -117,7 +110,7 @@ justificada con su profesor de laboratorio.
 # Honestidad con el curso
 
 Se deberá escribir  las respuesta de las tareas, proyectos y laboratorios  
-con tus propias palabras y no compartir el trabajo terminado con ningún compañero, este aspecto es dificil de seguir para los profesosres e instructores, por eso desde el equipo de trabajo de este curso, confiamos en su honestidad a la hora de realizar sus trabajos.  
+con tus propias palabras y no compartir el trabajo terminado con ningún compañero, este aspecto es dificil de seguir para los profesores, por eso desde el equipo de trabajo de este curso, confiamos en su honestidad a la hora de realizar sus trabajos.  
 
 La  excepción a esta regla,  es que puedes compartir todo lo relacionado con un **proyecto** con tu compañero (si tienes uno). Del mismo modo, si asistes a una sesión de laboratorio y tienes un compañero de laboratorio, puedes compartir todo lo relacionado con el  laboratorio con él.
 
