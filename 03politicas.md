@@ -76,7 +76,7 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 ## Entrega de laboratorios
 
-Los laboratorios se públican en la pagina web del curso  YYYYYYYYY el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en Gradescope. 
+Los laboratorios se públican en la pagina web del curso  YYYYYYYYY el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en YYYYYYY. 
 
 
 ## Entrega de tareas
