@@ -7,7 +7,7 @@ nav_order: 1
 
 
 
-[Libro guia](https://inferentialthinking.com/chapters/intro.html{: .btn .fs-5 .mb-4 .mb-md-0})
+[Libro guia](https://inferentialthinking.com/chapters/intro.html){: .btn .fs-5 .mb-4 .mb-md-0}
     
 
 <div class="code-example" markdown="1">
