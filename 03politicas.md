@@ -41,17 +41,18 @@ Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán
 
 ## Clases Magistrales.
 
-El curso se impartirá los Martes y Jueves de 4:10pm a 5:30pm aproximadamente, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero con computador. 
+El curso se impartirá los Martes y Jueves de 4:10pm a 5:30pm aproximadamente, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero con computador 
  
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| Todos | 16:00 - 18:00| Martes-Jueves |Teórica|3-107|
+| Todos | 16:10 - 17:20| Martes-Jueves |Teórica|3-107|
 
 
 
 ### Sesiones prácticas
 
+Las sesiones de laboratorios se llevarán a cabo en una sala de computadores,  los días viernes en los siguientes horarios:
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
@@ -69,7 +70,7 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 ## Entrega de laboratorios
 
-Los laboratorios se públican en la pagina web del curso  YYYYYYYYY el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en YYYYYYY. 
+Los laboratorios se públican en la página web del curso  YYYYYYYYY el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en YYYYYYY. 
 
 
 ## Entrega de tareas

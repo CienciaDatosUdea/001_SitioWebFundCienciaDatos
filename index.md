@@ -129,8 +129,7 @@ nav_order: 1
 |  Dic 17   | `37`{: .fw-700 .fs-5} `Clasificadores`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)--[17.5](https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html)--[17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 12]( www.cdudea/org/hub/user-redirect/git-pull?repo=https://github.com/CienciaDatosUdea/001_EstudianteFundCienciaDatos/semestre2024-2&branch=main&subPath=hw/hw12/hw12.ipynb){: .label .label-blue .float-left  } <br>`(Entrega Dic 03)`{: .label .label-yellow} <br><br>|
 
 
-
-|Semana 17|
+|Semana 16|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Ene 21  | Repaso |
