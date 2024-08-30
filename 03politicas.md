@@ -56,7 +56,7 @@ Las sesiones de laboratorios se llevarán a cabo en una sala de computadores,  l
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| 1     | 8:00 - 10:00| Viernes |Práctica|Sala computadores|
+| 1     | 6:00 - 8:00| Viernes |Práctica|Sala computadores|
 | 2     | 10:00 - 12:00| Viernes |Práctica|Sala computadores|
 | 3     | 12:00 - 14:00| Viernes |Práctica|Sala computadores|
 | 4     | 14:00 - 16:00| Viernes |Práctica|Sala computadores|
