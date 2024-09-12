@@ -71,12 +71,13 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 Los laboratorios se públican en la página web del curso el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
 
+Hay una escepción, el  primer laboratorio será publicada el día Viernes 13 de Sep y desarrollado en clase, y se entrega el día Viernes 20 de Sep.
 
 ## Entrega de tareas
 
 Las tareas se publican, el día Miércoles, el plazo de entrega es el  miércoles  de la siguiente semana antes de las 8pm.
 
-
+Hay una escepción, la primera tarea será publicada el dia Viernes 13 de Sep y se entrega el dia Viernes 20 Sep en la sesión de  laboratorio de ese día. 
 
 ## Presentación tarde tareas
 
