@@ -30,8 +30,7 @@ logo: "/assets/images/just-the-docs.png"
 # Generalidades
 
 
-Se espera que algunos aspectos del curso tarden en dominarse, y la mejor manera de dominar el material desafiante es hacer preguntas y trabajar en las tareas y laboratorios. Para las preguntas, emple la plataforma de classroom, allí un 
-profesor estarán solucionando sus dudas. Su asistencia a las clase de los viernes será su principal punto de contacto para todas las preguntas/aclaraciones relacionadas con el curso. 
+Se espera que algunos aspectos del curso tarden en dominarse, y la mejor manera de dominar el material desafiante es hacer preguntas y trabajar en las tareas y laboratorios. Para las preguntas, emplee la plataforma de classroom, allí un profesor estarán solucionando sus dudas. Su asistencia a las clase de los viernes será su principal punto de contacto para todas las preguntas/aclaraciones relacionadas con el curso. 
 
 <!-- 
 Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán.  -->
@@ -41,7 +40,7 @@ Si necesita ayudas adicionales, el día lunes entre 8:00-10:00am, se resolverán
 
 ## Clases Magistrales.
 
-El curso se impartirá los Martes y Jueves de 4:10pm a 5:30pm aproximadamente, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal(portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga , se recomienda estar al lado de un compañero con computador 
+El curso se impartirá los Martes y Jueves de 4:10pm a 5:30pm aproximadamente, se recomienda ingresar al aula antes de las 4:10pm para evitar cualquier contratiempo. Se recomienda la puntualidad a las sesiones de clase. Si tiene un computador personal (portatil, tablet etc ), se recomienda llevarlos al aula de clase, en caso de que no se tenga, se recomienda estar al lado de un compañero con computador 
  
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
@@ -70,7 +69,7 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 ## Entrega de laboratorios
 
-Los laboratorios se públican en la página web del curso  YYYYYYYYY el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en YYYYYYY. 
+Los laboratorios se públican en la página web del curso el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
 
 
 ## Entrega de tareas
@@ -93,8 +92,7 @@ Las solicitudes que no cumplan con estas directrices estarán sujetas a una revi
 
 ## Presentación de examenes
 
-Al semestre realizaremos dos examenes: un examen parcial y un examen final. En cada examen tendremos un supletorio, este último, se presentará con excusa
-justificada con su profesor de laboratorio. 
+Al semestre realizaremos dos examenes: un examen parcial y un examen final. En cada examen tendremos un supletorio, este último, se presentará con excusa justificada con su profesor de laboratorio. 
 
 
 # Porcentaje de Evaluación 
