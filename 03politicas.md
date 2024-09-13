@@ -66,6 +66,18 @@ Tiempo estimado de sesión 2h
 Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas sobre el laboratorio. La segunda hora, estará destinada a abordar consultas y avances relacionados con las tareas y/o proyectos.
 
 
+
+### Profesores
+| Nombre| Hora de clase        | Correo  |
+|-------|----------------------|---------|
+| Hernan Salinas                     | MJ 18-20   |hernan.salinas@udea.edu.co|
+| SAMUEL QUITIAN GALLEGO             | V  10-12   |samuel.quitiang@udea.edu.co|
+| JHON ALEJANDRO JARAMILLO ECHEVERRI | V  12-14   |jhon.jaramilloe@udea.edu.co|
+| JHON ALEJANDRO JARAMILLO ECHEVERRI | V  14-16   |jhon.jaramilloe@udea.edu.co|
+| GUSTAVO ADOLFO CASTRILLON YEPES    | V  16-18   |gadolfo.castrillon@udea.edu.co|
+
+
+
 ## Entrega de laboratorios
 
 Los laboratorios se públican en la página web del curso el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
