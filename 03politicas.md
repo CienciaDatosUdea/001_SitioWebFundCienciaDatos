@@ -70,11 +70,11 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 ### Profesores
 | Nombre| Hora de clase        | Correo  |
 |-------|----------------------|---------|
-| Hernan Salinas                     | MJ 18-20   |hernan.salinas@udea.edu.co|
-| SAMUEL QUITIAN GALLEGO             | V  10-12   |samuel.quitiang@udea.edu.co|
-| JHON ALEJANDRO JARAMILLO ECHEVERRI | V  12-14   |jhon.jaramilloe@udea.edu.co|
-| JHON ALEJANDRO JARAMILLO ECHEVERRI | V  14-16   |jhon.jaramilloe@udea.edu.co|
-| GUSTAVO ADOLFO CASTRILLON YEPES    | V  16-18   |gadolfo.castrillon@udea.edu.co|
+| HERNAN SALINAS                     | MJ 18-20   |hernan.salinas@udea.edu.co|
+| SAMUEL  GALLEGO             | V  10-12   |samuel.quitiang@udea.edu.co|
+| JHON  JARAMILLO  | V  12-14   |jhon.jaramilloe@udea.edu.co|
+| JHON  JARAMILLO  | V  14-16   |jhon.jaramilloe@udea.edu.co|
+| GUSTAVO  CASTRILLON     | V  16-18   |gadolfo.castrillon@udea.edu.co|
 
 
 
