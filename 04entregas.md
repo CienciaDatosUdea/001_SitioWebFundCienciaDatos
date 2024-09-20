@@ -7,9 +7,9 @@ nav_order: 4
 
 
 
-| Entrega  | 
-|:---------|
-|[Click aqui: Lab_01{: .label .label-red .float-left}](https://forms.gle/HpJNRU4FUzmcYkWJ7){: .btn .fs-5 .mb-4 .mb-md-0 .label-red}|
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|[Entregue aqui: Lab_01{: .label .label-red .float-left}](https://forms.gle/HpJNRU4FUzmcYkWJ7){: .btn .fs-5 .mb-4 .mb-md-0 .label-red}|20-SEP-24|
 
 
 

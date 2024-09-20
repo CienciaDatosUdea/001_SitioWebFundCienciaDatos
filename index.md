@@ -4,8 +4,6 @@ layout: home
 
 nav_order: 1
 ---
-
-
 <!-- 
 [Libro guia](https://inferentialthinking.com/chapters/intro.html){: .btn .fs-5 .mb-4 .mb-md-0}
     
