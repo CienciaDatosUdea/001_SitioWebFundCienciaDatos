@@ -9,6 +9,9 @@ nav_order: 1
 
 [Libro guia](https://inferentialthinking.com/chapters/intro.html){: .btn .fs-5 .mb-4 .mb-md-0}
     
+[Entregas](https://cienciadatosudea.github.io/001_SitioWebFundCienciaDatos/04entregas.html){: .btn .fs-5 .mb-4 .mb-md-0}
+
+
 <div class="code-example" markdown="1">
     
 |Semana 0| 
@@ -23,8 +26,6 @@ nav_order: 1
 |:---------|:--------------- |
 | Sep 17     | `1`{: .fw-700 .fs-5} `Introducción`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[1](https://inferentialthinking.com/chapters/01/what-is-data-science.html)--[1.1](https://inferentialthinking.com/chapters/01/1/intro.html)--[1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html)--[1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)--[1.3.1](https://inferentialthinking.com/chapters/01/3/1/Literary_Characters.html)--[1.3.2](https://inferentialthinking.com/chapters/01/3/2/Another_Kind_Of_Character.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1CZ8Uq6HSYY_lhGRomGc0Yd9eCcm0Genqw9WsoDO5Nuw/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec01/lec01_.ipynb){: .btn .float-left} <br><br>[Lab01: Expresiones](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lab/lab01/lab01_.ipynb){: .label .label-green .float-left  }<br> `(Entrega Sep 20)`{: .label .label-yellow} <br><br>|
 | Sep 19     | `2`{: .fw-700 .fs-5} `Causa y efecto`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)--[2.1](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)--[2.2](https://inferentialthinking.com/chapters/02/2/snow-s-grand-experiment.html)--[2.3](https://inferentialthinking.com/chapters/02/3/establishing-causality.html)--[2.4](https://inferentialthinking.com/chapters/02/4/randomization.html)--[2.5](https://inferentialthinking.com/chapters/02/5/endnote.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1seeuwPS08ka9_tTkQ9aVy7ujnCrVSs14jUFqvDxf6kk/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec02/lec02_.ipynb){: .btn .float-left} <br><br>[Tarea 01](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/hw/hw01/hw01_.ipynb){: .label .label-blue .float-left  } <br>`(Entrega Sep 25)`{: .label .label-yellow}<br>|
-
-
 
 
 
