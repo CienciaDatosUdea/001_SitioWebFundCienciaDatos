@@ -6,10 +6,23 @@ nav_order: 1
 ---
 
 
-
+<!-- 
 [Libro guia](https://inferentialthinking.com/chapters/intro.html){: .btn .fs-5 .mb-4 .mb-md-0}
     
 [Entregas](https://cienciadatosudea.github.io/001_SitioWebFundCienciaDatos/04entregas.html){: .btn .fs-5 .mb-4 .mb-md-0}
+ -->
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; text-align: left;">
+    <a href="https://inferentialthinking.com/chapters/intro.html" class="btn fs-5 mb-4 mb-md-0">Libro guía</a>
+  </div>
+
+  <div style="flex: 1; text-align: right;">
+    <a href="https://cienciadatosudea.github.io/001_SitioWebFundCienciaDatos/04entregas.html" class="btn fs-5 mb-4 mb-md-0">Entregas</a>
+  </div>
+
+</div>
 
 
 <div class="code-example" markdown="1">
@@ -33,9 +46,9 @@ nav_order: 1
 |Semana 2|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Sep 24     | `3`{: .fw-700 .fs-5} `Tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[3](https://inferentialthinking.com/chapters/03/programming-in-python.html)--[3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html)--[3.2](https://inferentialthinking.com/chapters/03/2/Names.html)--[3.2.1](https://inferentialthinking.com/chapters/03/2/1/Growth.html)--[3.3](https://inferentialthinking.com/chapters/03/3/Calls.html)--[3.4](https://inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Lab02: Operaciones con tablas](){: .label .label-green .float-left  }<br> `(Entrega Sep 23)`{: .label .label-yellow} <br><br>|
+| Sep 24     | `3`{: .fw-700 .fs-5} `Tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[3](https://inferentialthinking.com/chapters/03/programming-in-python.html)--[3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html)--[3.2](https://inferentialthinking.com/chapters/03/2/Names.html)--[3.2.1](https://inferentialthinking.com/chapters/03/2/1/Growth.html)--[3.3](https://inferentialthinking.com/chapters/03/3/Calls.html)--[3.4](https://inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Lab02: Operaciones con tablas](){: .label .label-green .float-left  }<br> `(Entrega Sep 30)`{: .label .label-yellow} <br><br>|
 |      | `4`{: .fw-700 .fs-5} `Tipos de datos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[4](https://inferentialthinking.com/chapters/04/Data_Types.html)--[4.1](https://inferentialthinking.com/chapters/04/1/Numbers.html)--[4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)--[4.2.1](https://inferentialthinking.com/chapters/04/2/1/String_Methods.html)--[4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html)--[5](https://inferentialthinking.com/chapters/05/Sequences.html)--[5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)--[5.2](https://inferentialthinking.com/chapters/05/2/Ranges.html)--[5.3](https://inferentialthinking.com/chapters/05/3/More_on_Arrays.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} 
-| Sep 26     | `5`{: .fw-700 .fs-5} `Construcción de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6](https://inferentialthinking.com/chapters/06/Tables.html)--[6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)--[6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 02](){: .label .label-blue .float-left  } <br>`(Entrega Sep 27)`{: .label .label-yellow} <br><br>|
+| Sep 26     | `5`{: .fw-700 .fs-5} `Construcción de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6](https://inferentialthinking.com/chapters/06/Tables.html)--[6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)--[6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 02](){: .label .label-blue .float-left  } <br>`(Entrega Oct 02)`{: .label .label-yellow} <br><br>|
 |      | `6`{: .fw-700 .fs-5} `Censo`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html)--[6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
 
 
