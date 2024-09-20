@@ -12,6 +12,13 @@ nav_order: 4
 |[Entregue aqui: Lab_01](https://forms.gle/HpJNRU4FUzmcYkWJ7){: .btn .fs-5 .mb-4 .mb-md-0 .label-red}|20-SEP-24| -->
 
 
+Al entregar este tarea, declaro que:
+El trabajo que presento es de mi autoría y, aunque he podido discutir ideas generales con mis compañeros, las soluciones finales han sido desarrolladas exclusivamente por mí.
+No he copiado ni compartido mis soluciones con otros estudiantes, ni he utilizado soluciones de otras personas o fuentes no autorizadas.
+Entiendo que cualquier violación a este acuerdo de honestidad será considerada una falta grave y tendrá consecuencias de acuerdo con el reglamento institucional.
+
+Puede revisar las instrucciones de entrega en este [link](https://docs.google.com/presentation/d/1vxzjLlmmjAMjNbW86etDO6KgpPabZ0xGaG_6unkGV_8/edit?usp=sharing
+)
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
