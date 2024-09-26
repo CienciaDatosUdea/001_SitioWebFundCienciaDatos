@@ -43,7 +43,7 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">: Semana 2 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 2 Actual</a> |
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Sep 24     | `3`{: .fw-700 .fs-5} `Tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[3](https://inferentialthinking.com/chapters/03/programming-in-python.html)--[3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html)--[3.2](https://inferentialthinking.com/chapters/03/2/Names.html)--[3.2.1](https://inferentialthinking.com/chapters/03/2/1/Growth.html)--[3.3](https://inferentialthinking.com/chapters/03/3/Calls.html)--[3.4](https://inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1NUNQ4gbXlXlj8pv9SMWldH-1Frh6cuJr37011ops90s/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec03/lec03_.ipynb){: .btn .float-left}  <br><br>[Lab02: Operaciones con tablas](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lab/lab02/lab02_.ipynb){: .label .label-green .float-left  }<br> `(Entrega Sep 30)`{: .label .label-yellow} <br><br>|
