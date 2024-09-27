@@ -22,19 +22,31 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 
 
+
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/bjky8GdxnWYbpbC9A" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: hw_01</a> | 25-SEP-24 |
+|<a href="https://forms.gle/zgbscuZ5EhDE1MF4A" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: Lab_02</a> | 30-SEP-24 |
+<!-- |<a href="https://forms.gle/zgbscuZ5EhDE1MF4A" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: hw_02</a> | 30-SEP-24 | -->
+
+
+| Entrega  |  Fecha Limite  |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">:
+hw_01</a>|El tiempo de entrega ya finalizo 25 sep, contacte su prefesor si tuvo problemas con la entregas  |
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">: Lab_01</a> | El tiempo de entrega ya finalizo 20 Sep, contacte su prefesor si tuvo problemas con la entregas |
 
 
 
 
 <!-- 
-Link1 = https://forms.gle/bjky8GdxnWYbpbC9A
-Link2  =https://forms.gle/bjky8GdxnWYbpbC9A
+Tareas
+Link1  https://forms.gle/bjky8GdxnWYbpbC9A
 DEfinir un excel con link, esos linkl se programan y se actaulzian cada semana, para ello es imporatente 
 tene run servidor dedicado a todo el conjunto de ooperacion
+
+Laboratorio
+Link1 = https://forms.gle/bjky8GdxnWYbpbC9A
+Link1  https://forms.gle/zgbscuZ5EhDE1MF4A
+
  -->
 
 
