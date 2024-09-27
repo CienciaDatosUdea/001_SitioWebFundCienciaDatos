@@ -26,12 +26,15 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
 |<a href="https://forms.gle/zgbscuZ5EhDE1MF4A" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: Lab_02</a> | 30-SEP-24 |
-<!-- |<a href="https://forms.gle/zgbscuZ5EhDE1MF4A" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: hw_02</a> | 30-SEP-24 | -->
 
 
 | Entrega  |  Fecha Limite  |
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> hw_01</a> |El tiempo de entrega ya finalizo 25 sep, contacte su prefesor si tuvo problemas con la entregas  |
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> Lab_01</a> | El tiempo de entrega ya finalizo 20 Sep, contacte su prefesor si tuvo problemas con la entregas |
+
+
+
+<!-- |<a href="https://forms.gle/zgbscuZ5EhDE1MF4A" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: hw_02</a> | 30-SEP-24 | -->
 
 
 
