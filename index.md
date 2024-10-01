@@ -53,7 +53,7 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 2 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 3 Actual</a> |
 |Semana 3|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
