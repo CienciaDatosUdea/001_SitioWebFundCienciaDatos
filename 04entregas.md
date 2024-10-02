@@ -26,10 +26,7 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
 |<a href="https://forms.gle/mPyGE5usG2gojjEL7" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: hw_02</a> | 02-OCT-24 |
-
-
-| Entrega  |  Fecha Limite  |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: Lab_02</a> |el tiempo de entrega ya finalizo 30-SEP-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">Entregue aquí: Lab_02</a> |el tiempo de entrega ya finalizo 30-SEP-24 |
 
 
 | Entrega  |  Fecha Limite  |
