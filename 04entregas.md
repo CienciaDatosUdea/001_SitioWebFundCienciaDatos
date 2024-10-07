@@ -21,12 +21,17 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 )
 
 
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/qo26Bkj1BK3MVz7p6" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: Lab_03</a> | 09-OCT-24 |
+
+
 
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/mPyGE5usG2gojjEL7" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: hw_02</a> | 02-OCT-24 |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">Entregue aquí: Lab_02</a> |el tiempo de entrega ya finalizo 30-SEP-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;"> hw_02</a> | El tiempo de entrega ya finalizo 02-OCT-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">Lab_02</a> |el tiempo de entrega ya finalizo 30-SEP-24 |
 
 
 | Entrega  |  Fecha Limite  |
@@ -48,7 +53,8 @@ tene run servidor dedicado a todo el conjunto de ooperacion
 
 Laboratorio
 Link1 = https://forms.gle/bjky8GdxnWYbpbC9A
-Link1  https://forms.gle/zgbscuZ5EhDE1MF4A
+Link1=  https://forms.gle/zgbscuZ5EhDE1MF4A
+Link3= https://forms.gle/qo26Bkj1BK3MVz7p6
 
  -->
 
