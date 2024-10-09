@@ -21,6 +21,14 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 )
 
 
+
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/kjZrJs5EkHLvheqb7" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: Lab_04</a> | 13-OCT-24 |
+
+
+
+
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
 |<a href="https://forms.gle/qo26Bkj1BK3MVz7p6" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aquí: Lab_03</a> | 09-OCT-24 |
@@ -55,7 +63,7 @@ Laboratorio
 Link1 = https://forms.gle/bjky8GdxnWYbpbC9A
 Link1=  https://forms.gle/zgbscuZ5EhDE1MF4A
 Link3= https://forms.gle/qo26Bkj1BK3MVz7p6
-
+Link4= https://forms.gle/kjZrJs5EkHLvheqb7
  -->
 
 
