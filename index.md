@@ -61,7 +61,7 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 4 Actual</a> |
+
 |Semana 4|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -69,7 +69,7 @@ nav_order: 1
 | Oct 9     | `Groupby`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html)--[8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left}  <br><br> `11`{: .fw-700 .fs-5} `Pivotes y uniones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left}{: .btn .float-left} <br><br> [Tarea 03](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/hw/hw03/hw03_.ipynb ){: .label .label-blue .float-left  } <br>`(Entrega Oct 17)`{: .label .label-yellow} <br><br>|
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 4 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 5 Actual</a> |
 |Semana 5|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
