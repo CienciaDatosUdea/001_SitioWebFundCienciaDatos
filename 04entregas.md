@@ -21,6 +21,11 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 )
 
 
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
+color: white;">FoTo Mascota</a> |  |
+
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
