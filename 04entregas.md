@@ -29,10 +29,10 @@ color: white;">FoTo Mascota</a> |  |
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
+|<a href="https://forms.gle/pAdaEnvZrgEUYEvL6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
 color: white;">Entregue aqui parte 01 proyecto</a> | 25-OCT-24 |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
-color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 |
+<!-- |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
+color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 
 
 
