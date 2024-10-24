@@ -23,14 +23,12 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/xKLmgY84Jy9Rjrop6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
-color: white;">FoTo Mascota</a> |  |
+|<a href="https://forms.gle/xKLmgY84Jy9Rjrop6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">FoTo Mascota</a> |  |
 
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/pAdaEnvZrgEUYEvL6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
-color: white;">Entregue aqui parte 01 proyecto</a> | 25-OCT-24 |
+|<a href="https://forms.gle/pAdaEnvZrgEUYEvL6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;">Entregue aqui parte 01 proyecto</a> | 25-OCT-24 |
 <!-- |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
 color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 
@@ -38,10 +36,8 @@ color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
-color: white;">Lab_04</a> |El tiempo de entrega ya finalizo 13-OCT-24 |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; 
-color: white;">HW_03</a> |El tiempo de entrega ya finalizo 17-OCT-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168);color: white;">Lab_04</a> |El tiempo de entrega ya finalizo 13-OCT-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">HW_03</a> |El tiempo de entrega ya finalizo 17-OCT-24 |
 
 
 
