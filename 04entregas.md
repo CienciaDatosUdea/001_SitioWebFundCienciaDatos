@@ -47,8 +47,7 @@ color: white;">HW_03</a> |El tiempo de entrega ya finalizo 17-OCT-24 |
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
-color: white;"> Lab_03</a> |El tiempo de entrega ya finalizo 09-OCT-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168);color: white;"> Lab_03</a> |El tiempo de entrega ya finalizo 09-OCT-24 |
 
 
 | Entrega  |  Fecha Limite  |
