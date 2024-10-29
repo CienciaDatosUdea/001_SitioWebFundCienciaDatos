@@ -83,13 +83,21 @@ nav_order: 1
 | Oct 24     | `15`{: .fw-700 .fs-5} `Probabilidad Error, Muestreo`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1pa0POcadBgwSazDriGAOaPku-nyx0RMub7a_E_iVYXQ/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec12/lec12.ipynb){: .btn .float-left} <br><br>|
 
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 6 Actual</a> |
 |Semana 7|
+|  Fecha   | Sesion          |
+|:---------|:--------------- |
+| Oct 29     | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec13/lec13.ipynb){: .btn .float-left} <br><br>|
+
+
+<!-- |Semana 7|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Oct      | `16`{: .fw-700 .fs-5} `Modelos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html)--[10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html)--[10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 05]( ){: .label .label-blue .float-left  } <br>`(Entrega Oct 25)`{: .label .label-yellow} <br><br>|
 | Oct      | `17`{: .fw-700 .fs-5} `Comparación de distribución`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)--[11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)--[11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left}  <br><br>[Lab06: Evaluación de modelos](){: .label .label-green .float-left  }<br> `(Entrega Oct 17)`{: .label .label-yellow} <br><br>|
-| Oct      | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 06](){: .label .label-blue .float-left  } <br>`(Entrega Oct 20)`{: .label .label-yellow} <br><br>|
+| Oct      | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 06](){: .label .label-blue .float-left  } <br>`(Entrega Oct 20)`{: .label .label-yellow} <br><br>| -->
+
+
 
 |Semana 8|
 |  Fecha   | Sesion          |
