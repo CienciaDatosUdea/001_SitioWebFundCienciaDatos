@@ -75,7 +75,6 @@ nav_order: 1
 | Oct 17     | `13`{: .fw-700 .fs-5} `Condicionales e iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9](https://inferentialthinking.com/chapters/09/Randomness.html)--[9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec10/lec10_.ipynb){: .btn .float-left} <br><br>[Project01: Poblacion mundial y pobreza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/proyectos/proyecto01/proyecto_parte01.ipynb){: .label .label-purple .float-left  } <br> `(Entrega parcial Oct 25)`{: .label .label-yellow} <br><br>|
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 6 Actual</a> |
 |Semana 6|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
