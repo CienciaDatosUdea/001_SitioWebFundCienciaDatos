@@ -30,8 +30,8 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/hJ2Bv3pXFcy5rxyVA" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aqui parte 01 proyecto</a> | 8-nov-24 |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color:  rgba(255, 218, 190, 168); color: white;">La entrega del proyecto  parte 01 proyecto ya finalizo </a> | 25-OCT-24 |
+|<a href="https://forms.gle/hJ2Bv3pXFcy5rxyVA" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aqui el proyecto 01 vfinal</a> | 8-nov-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color:  rgba(255, 218, 190, 168); color: white;">Proyecto parte 01  </a> |El tiempo de entrega de la parte 1, ya finalizo 25-OCT-24 |
 
 
 
