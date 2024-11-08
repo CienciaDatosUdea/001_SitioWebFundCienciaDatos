@@ -21,14 +21,19 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 )
 
 
+
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
 |<a href="https://forms.gle/xKLmgY84Jy9Rjrop6" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">FoTo Mascota</a> |  |
 
 
+
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/pAdaEnvZrgEUYEvL6" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aqui parte 01 proyecto</a> | 25-OCT-24 |
+|<a href="https://forms.gle/hJ2Bv3pXFcy5rxyVA" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">Entregue aqui parte 01 proyecto</a> | 8-nov-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color:  rgba(255, 218, 190, 168); color: white;">La entrega del proyecto  parte 01 proyecto ya finalizo </a> | 25-OCT-24 |
+
+
 
 
 <!-- |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); 
@@ -79,7 +84,10 @@ Link1=  https://forms.gle/zgbscuZ5EhDE1MF4A
 Link3= https://forms.gle/qo26Bkj1BK3MVz7p6
 Link4= https://forms.gle/kjZrJs5EkHLvheqb7
  
- 
+Proyectos01:
+link1  https://forms.gle/pAdaEnvZrgEUYEvL6
+link1  https://forms.gle/hJ2Bv3pXFcy5rxyVA
+
  -->
 
 
