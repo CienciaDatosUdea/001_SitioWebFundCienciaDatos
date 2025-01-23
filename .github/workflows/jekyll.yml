@@ -26,11 +26,20 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+
+
 jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
     steps:
+
+
+      - name: Install Ruby
+        run: |
+          ruby-build 3.2.2 /opt/hostedtoolcache/Ruby/3.2.2/x64
+          touch /opt/hostedtoolcache/Ruby/3.2.2/x64.complete
+
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
