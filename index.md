@@ -94,7 +94,7 @@ nav_order: 1
 |Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Ene 23     | `16`{: .fw-700 .fs-5} `Repaso 1`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1G3TRYV7ijsAusC49y6RE2bmUkLEVVdRa4yePhXcYYLA/edit?usp=sharing){: .btn .float-left} [Demostracion](){: .btn .float-left} <br><br>|
+| Ene 23     | `16`{: .fw-700 .fs-5} `Repaso 1`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1G3TRYV7ijsAusC49y6RE2bmUkLEVVdRa4yePhXcYYLA/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec15Repaso/Repaso.ipynb){: .btn .float-left} <br><br>|
 
 
 |Semana 9|

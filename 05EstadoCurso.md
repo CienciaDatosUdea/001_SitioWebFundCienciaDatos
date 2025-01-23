@@ -15,7 +15,7 @@ Después de la asamblea y el paro en la universidad de Antioquia, este es el est
 
 Hasta la fecha se han entregado las siguientes tareas: 
 
-|Entega |
+|Entrega |
 |------ |
 |Laboratorios 1|
 |Laboratorios 2|
