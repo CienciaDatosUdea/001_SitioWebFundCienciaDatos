@@ -89,11 +89,12 @@ nav_order: 1
 | Oct 29     | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec13/lec13.ipynb){: .btn .float-left} <br><br>|
 | Oct   31   | `17`{: .fw-700 .fs-5} `Modelos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html)--[10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html)--[10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/12L3Ode23eJY1hIrSHAKEoM0vykUwZBq1wegkVQitqs4/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec14/lec14.ipynb){: .btn .float-left}  <br><br>|
 
+
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 8 Actual</a> |
 |Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Ene 23     | `16`{: .fw-700 .fs-5} `Repaso 1`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](){: .btn .float-left} [Demostracion](){: .btn .float-left} <br><br>|
+| Ene 23     | `16`{: .fw-700 .fs-5} `Repaso 1`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1G3TRYV7ijsAusC49y6RE2bmUkLEVVdRa4yePhXcYYLA/edit?usp=sharing){: .btn .float-left} [Demostracion](){: .btn .float-left} <br><br>|
 
 
 |Semana 9|
@@ -119,7 +120,7 @@ nav_order: 1
 
 
 
-|Semana 9|
+|Semana 10|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Nov 5     | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
