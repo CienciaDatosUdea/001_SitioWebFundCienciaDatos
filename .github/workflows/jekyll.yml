@@ -36,7 +36,7 @@ jobs:
 
       - name: Install Ruby 3.3.0 manually
         run: |
-          ruby-build 3.3.0 /opt/hostedtoolcache/Ruby/3.3.0/x64
+          ruby-build 3.3.0 /opt/hostedtoolcache/Ruby/3.3.0/x64 \
           touch /opt/hostedtoolcache/Ruby/3.3.0/x64.complete
 
 
