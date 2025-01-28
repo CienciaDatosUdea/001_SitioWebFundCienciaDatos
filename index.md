@@ -90,17 +90,17 @@ nav_order: 1
 | Oct   31   | `17`{: .fw-700 .fs-5} `Modelos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html)--[10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html)--[10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/12L3Ode23eJY1hIrSHAKEoM0vykUwZBq1wegkVQitqs4/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec14/lec14.ipynb){: .btn .float-left}  <br><br>|
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 8 Actual</a> |
+
 |Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Ene 23     | `16`{: .fw-700 .fs-5} `Repaso 1`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1G3TRYV7ijsAusC49y6RE2bmUkLEVVdRa4yePhXcYYLA/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec15Repaso/Repaso.ipynb){: .btn .float-left} <br><br>|
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 9 Actual</a> |
 |Semana 9|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Ene 28     | `16`{: .fw-700 .fs-5} `Repaso 2`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](){: .btn .float-left} [Demostracion](){: .btn .float-left} <br><br>|
+| Ene 28     | `16`{: .fw-700 .fs-5} `Repaso 2`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec16Repaso/Repaso2.ipynb){: .btn .float-left} <br><br>|
 | Ene 30     | `17`{: .fw-700 .fs-5} `Repaso 3`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](){: .btn .float-left} [Demostracion](){: .btn .float-left} <br><br>|
 
 
