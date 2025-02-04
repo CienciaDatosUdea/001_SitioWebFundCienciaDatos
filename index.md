@@ -96,18 +96,18 @@ nav_order: 1
 |:---------|:--------------- |
 | Ene 23     | `16`{: .fw-700 .fs-5} `Repaso 1`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1G3TRYV7ijsAusC49y6RE2bmUkLEVVdRa4yePhXcYYLA/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec15Repaso/Repaso.ipynb){: .btn .float-left} <br><br>|
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 9 Actual</a> |
+
 |Semana 9|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Ene 28     | `16`{: .fw-700 .fs-5} `Repaso 2`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec16Repaso/Repaso2.ipynb){: .btn .float-left} <br><br>|
 | Ene 30     | `17`{: .fw-700 .fs-5} `Repaso 3`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](){: .btn .float-left} [Demostracion](){: .btn .float-left} <br><br>|
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 10 Actual</a> |
 |Semana 10|
-| Feb 4      | `17`{: .fw-700 .fs-5} `Comparación de distribución`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)--[11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)--[11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left}  <br><br>[Lab06: Evaluación de modelos](){: .label .label-green .float-left  }<br> `(Entrega Oct 17)`{: .label .label-yellow} <br><br>|
+| Feb 4      | `17`{: .fw-700 .fs-5} `Comparación de distribución`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)--[11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)--[11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ox2oDF6FpTTSshY6P4RHLU2z3yiQG3AvwKiMIvMymiY/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec17/lec17.ipynb){: .btn .float-left}  <br><br>[Lab06: Evaluación de modelos](){: .label .label-green .float-left  }<br> `(Entrega Febrero 11 )`{: .label .label-yellow} <br><br>|
 | Feb 6      | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 06](){: .label .label-blue .float-left  } <br>`(Entrega Oct 20)`{: .label .label-yellow} <br><br>| 
-[Tarea 05]( ){: .label .label-blue .float-left  } <br>`(Entrega Oct 25)`{: .label .label-yellow} <br><br>| 
+[Tarea 05]( ){: .label .label-blue .float-left  } <br>`...`{: .label .label-yellow} <br><br>| 
 
 
 
