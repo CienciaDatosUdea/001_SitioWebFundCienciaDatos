@@ -116,7 +116,7 @@ nav_order: 1
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Feb 11     | `19`{: .fw-700 .fs-5} `Pruebas A/B`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)--[12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1TvpxqPEfdB4QsIw-vh56FaFMjIt7aCA6EkDRbBe1ztY/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec19/lec19.ipynb){: .btn .float-left}  <br><br><br><br>[Lab07: Pruebas A/B](){: .label .label-green .float-left  }<br> `(Entrega Feb 19)`{: .label .label-yellow}|
-|  Feb 13     | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
+|  Feb 13     | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>|
 
 
 
