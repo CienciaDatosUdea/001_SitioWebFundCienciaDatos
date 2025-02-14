@@ -25,7 +25,7 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/qS7U7D3SZyw3tLwq6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_06</a> |El tiempo de entrega ya finalizo 14-FEB-24 |
+|<a href="https://forms.gle/qS7U7D3SZyw3tLwq6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_06</a> | 14-FEB-24 |
 
 
 
