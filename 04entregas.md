@@ -40,6 +40,12 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 
 
+| Entrega  |  Fecha Limite  |
+|<a href="https://forms.gle/qS7U7D3SZyw3tLwq6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168);color: white;">Lab_06</a> |El tiempo de entrega ya finalizo 14-FEB-24 |
+
+
+
+
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
@@ -61,7 +67,10 @@ color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 
 | Entrega  |  Fecha Limite  |
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> hw_01</a> |El tiempo de entrega ya finalizo 25 sep, contacte su prefesor si tuvo problemas con la entregas  |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> Lab_01</a> | El tiempo de entrega ya finalizo 20 Sep, contacte su prefesor si tuvo problemas con la entregas |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> Lab_01</a> | El tiempo de entrega ya finalizo 20 Sep, contacte su profesor si tuvo problemas con la entregas |
+
+
+
 
 
 
@@ -83,7 +92,10 @@ Link1 = https://forms.gle/bjky8GdxnWYbpbC9A
 Link1=  https://forms.gle/zgbscuZ5EhDE1MF4A
 Link3= https://forms.gle/qo26Bkj1BK3MVz7p6
 Link4= https://forms.gle/kjZrJs5EkHLvheqb7
- 
+
+link6 https://forms.gle/qS7U7D3SZyw3tLwq6
+
+
 Proyectos01:
 link1  https://forms.gle/pAdaEnvZrgEUYEvL6
 link1  https://forms.gle/hJ2Bv3pXFcy5rxyVA
