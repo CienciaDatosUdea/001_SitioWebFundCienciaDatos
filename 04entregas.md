@@ -22,10 +22,17 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 
 
+
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/qS7U7D3SZyw3tLwq6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 0);color: white;">Lab_06</a> |El tiempo de entrega ya finalizo 14-FEB-24 |
+
+
+
+
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
 |<a href="https://forms.gle/xKLmgY84Jy9Rjrop6" class="btn fs-5 mb-4 mb-md-0" style="background-color: orange; color: white;">FoTo Mascota</a> |  |
-
 
 
 | Entrega  |  Fecha Limite  |
@@ -40,8 +47,6 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 
 
-| Entrega  |  Fecha Limite  |
-|<a href="https://forms.gle/qS7U7D3SZyw3tLwq6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168);color: white;">Lab_06</a> |El tiempo de entrega ya finalizo 14-FEB-24 |
 
 
 
