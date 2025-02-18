@@ -111,7 +111,6 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 11 Actual</a> |
 |Semana 11|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -120,11 +119,11 @@ nav_order: 1
 
 
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 11 Actual</a> |
 |Semana 12|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-|   Feb 18    | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
+|   Feb 18    | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec21/lec21.ipynb){: .btn .float-left} 
 | Nov 7     | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
 |  Feb 20     | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Lab08: Media muestral]( ){: .label .label-green .float-left  }<br> `(Entrega Nov 07)`{: .label .label-yellow}|
 |       | `24`{: .fw-700 .fs-5} `Interpretar la confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
