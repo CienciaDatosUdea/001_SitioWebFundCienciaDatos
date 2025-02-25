@@ -119,14 +119,15 @@ nav_order: 1
 
 
 
-|Semana 13|
+|Semana 12|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |   Feb 18    | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec21/lec21.ipynb){: .btn .float-left} 
 | Feb 20     | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 12 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 13 Actual</a> |
+|Semana 13|
 |  Feb 25     | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec22/lec22.ipynb){: .btn .float-left} 
 | Feb 27      | `24`{: .fw-700 .fs-5} `Interpretar la confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br> <br><br>[Lab08: Media muestral]( ){: .label .label-green .float-left  }<br> `()`{: .label .label-yellow}||
 
