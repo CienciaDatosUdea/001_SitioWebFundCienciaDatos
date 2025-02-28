@@ -22,6 +22,19 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 
 
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/zH5QiMCCfS9wmaTZ9" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_08</a> | 28-FEB-24 |
+
+
+
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/L6Q6au4zBE1aGA6n8" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_07</a> | 28-FEB-24 |
+
+
+
+
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
