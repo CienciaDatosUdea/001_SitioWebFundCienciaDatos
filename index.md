@@ -131,7 +131,6 @@ nav_order: 1
 | Feb 27      | `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec23/lec23.ipynb){: .btn .float-left}  <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> {: .label .label-yellow}||
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 14 Actual</a> |
 |Semana 14|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -142,14 +141,14 @@ nav_order: 1
 
 
 
-
-|Semana 14|
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 15 Actual</a> |
+|Semana 15|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Marzo 4   | `27`{: .fw-700 .fs-5} `Media muestral`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
-|      | `28`{: .fw-700 .fs-5} `Diseño de experimentos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 09](){: .label .label-blue .float-left  } <br>`(Entrega Nov 12)`{: .label .label-yellow} <br><br>[ReviewProject01: 0]( www.cdudea/org/hub/user-redirect/git-pull?repo=https://github.com/CienciaDatosUdea/001_EstudianteFundCienciaDatos/semestre2024-2&branch=main&subPath=project/reviewproject01/reviewproject01.ipynb){: .label .label-purple .float-left  } <br> `(Entrega Oct 07)`{: .label .label-yellow} <br><br>|
-| Marzo 6     | `29`{: .fw-700 .fs-5} `Correlación`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15](https://inferentialthinking.com/chapters/15/Prediction.html)--[15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
-|     | `30`{: .fw-700 .fs-5} `Regresión lineal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>|
+|      | `28`{: .fw-700 .fs-5} `Diseño de experimentos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 09](){: .label .label-blue .float-left  } <br>`(Entrega Nov 12)`{: .label .label-yellow} <br><br> <br><br>|
+| Marzo 11     | `29`{: .fw-700 .fs-5} `Correlación`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15](https://inferentialthinking.com/chapters/15/Prediction.html)--[15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) <br><br><br><br>|
+|     | `30`{: .fw-700 .fs-5} `Regresión lineal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec24/lec24.ipynb){: .btn .float-left}  <br><br>|
 
 
 
