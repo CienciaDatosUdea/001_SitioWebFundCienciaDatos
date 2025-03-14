@@ -157,8 +157,15 @@ nav_order: 1
 | Marzo 13    | `31,32,33`{: .fw-700 .fs-5} `Mínimos cuadrados, Residuos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)--[15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ICKP497lqssN_xNiDmgAfFtg5VzSUX0dKpDliZPRHZA/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec27/lec27.ipynb){: .btn .float-left}  <br><br>[Lab10: Regresión lineal](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lab/lab10/lab10.ipynb ){: .label .label-green .float-left  }|
 
 
+
+|Semana 17|
+|  Fecha   | Sesion          |
+|:---------|:--------------- |
+|  Marzo 18    | `34`{: .fw-700 .fs-5} `Inferencia de regresión`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 11]( ){: .label .label-blue .float-left  } <br>`(Entrega Nov 26)`{: .label .label-yellow} <br><br>|
+|  Marzo 18    | `34`{: .fw-700 .fs-5} `.....`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 11]( ){: .label .label-blue .float-left  } <br>`(Entrega Nov 26)`{: .label .label-yellow} <br><br>|
+
 <!-- 
-|Semana 15|
+|Semana 17|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Marzo 11    | `31`{: .fw-700 .fs-5} `Mínimos cuadrados`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)--[15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 10](){: .label .label-blue .float-left  } <br>`(Entrega Nov 19)`{: .label .label-yellow} <br><br>|
@@ -166,7 +173,7 @@ nav_order: 1
 
 
 
-|Semana 16|
+|Semana 17|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Marzo 18    | `34`{: .fw-700 .fs-5} `Inferencia de regresión`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Video](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>[Tarea 11]( ){: .label .label-blue .float-left  } <br>`(Entrega Nov 26)`{: .label .label-yellow} <br><br>|
