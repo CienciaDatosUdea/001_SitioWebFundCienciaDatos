@@ -21,6 +21,16 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 )
 
 
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/KZ3yZ7oWVha2izcTA" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_10</a> |  |
+
+
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/bsgZK5fTGeY3syMN9" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_09</a> |  |
+
+
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
@@ -30,7 +40,7 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/L6Q6au4zBE1aGA6n8" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_07</a> | 28-FEB-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_07</a> | 28-FEB-24 |
 
 
 
@@ -38,7 +48,7 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/qS7U7D3SZyw3tLwq6" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_06</a> | 14-FEB-24 |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_06</a> | 14-FEB-24 |
 
 
 
