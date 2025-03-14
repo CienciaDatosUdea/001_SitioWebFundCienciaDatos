@@ -149,11 +149,12 @@ nav_order: 1
 
 
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 15 Actual</a> |
+|Semana 16|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Marzo 11     | `29`{: .fw-700 .fs-5} `Correlación`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15](https://inferentialthinking.com/chapters/15/Prediction.html)--[15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) <br><br><br><br>|
 |     | `30`{: .fw-700 .fs-5} `Regresión lineal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec26/lec26.ipynb){: .btn .float-left}  <br><br>|
-| Marzo 13    | `31,32,33`{: .fw-700 .fs-5} `Mínimos cuadrados, Residuos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)--[15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ICKP497lqssN_xNiDmgAfFtg5VzSUX0dKpDliZPRHZA/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec27/lec27.ipynb){: .btn .float-left}  <br><br>[Lab09: Distribucion normal ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lab/lab10/lab10.ipynb ){: .label .label-green .float-left  }|
+| Marzo 13    | `31,32,33`{: .fw-700 .fs-5} `Mínimos cuadrados, Residuos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)--[15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ICKP497lqssN_xNiDmgAfFtg5VzSUX0dKpDliZPRHZA/edit?usp=sharing){: .btn .float-left} [Demostracion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lec/lec27/lec27.ipynb){: .btn .float-left}  <br><br>[Lab10: Regresión lineal](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2024-2/lab/lab10/lab10.ipynb ){: .label .label-green .float-left  }|
 
 
 <!-- 
