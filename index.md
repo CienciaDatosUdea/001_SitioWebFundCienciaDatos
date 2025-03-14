@@ -148,7 +148,7 @@ nav_order: 1
 | Marzo 6     | `28`{: .fw-700 .fs-5} `Diseño de experimentos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Demostracion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} |
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 15 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 16 Actual</a> |
 |Semana 16|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
