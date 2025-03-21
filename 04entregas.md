@@ -21,6 +21,13 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 )
 
 
+
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="https://forms.gle/Wd6gEiSUrgZwxKqr9" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Proyecto final</a> |  |
+
+
+
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
 |<a href="https://forms.gle/KZ3yZ7oWVha2izcTA" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_10</a> |  |
@@ -96,6 +103,8 @@ color: white;">Entregue aqui parte 02 proyecto</a> | 31-OCT-24 | -->
 | Entrega  |  Fecha Limite  |
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> hw_01</a> |El tiempo de entrega ya finalizo 25 sep, contacte su prefesor si tuvo problemas con la entregas  |
 |<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> Lab_01</a> | El tiempo de entrega ya finalizo 20 Sep, contacte su profesor si tuvo problemas con la entregas |
+
+
 
 
 
