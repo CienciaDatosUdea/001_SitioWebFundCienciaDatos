@@ -24,25 +24,27 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/Wd6gEiSUrgZwxKqr9" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Proyecto final</a> |  |
-
-
-
-| Entrega  |  Fecha Limite  |
-|:---------|:---|
-|<a href="https://forms.gle/KZ3yZ7oWVha2izcTA" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_10</a> |  |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Proyecto final</a> |  |
+<!-- https://forms.gle/Wd6gEiSUrgZwxKqr9 -->
 
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/bsgZK5fTGeY3syMN9" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_09</a> |  |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_10</a> |  |
 
+<!-- https://forms.gle/KZ3yZ7oWVha2izcTA -->
+
+| Entrega  |  Fecha Limite  |
+|:---------|:---|
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_09</a> |  |
+
+<!-- https://forms.gle/bsgZK5fTGeY3syMN9 -->
 
 
 | Entrega  |  Fecha Limite  |
 |:---------|:---|
-|<a href="https://forms.gle/zH5QiMCCfS9wmaTZ9" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_08</a> | 28-FEB-24 |
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1);color: white;">Lab_08</a> | 28-FEB-24 |
+<!-- https://forms.gle/zH5QiMCCfS9wmaTZ9 -->
 
 
 | Entrega  |  Fecha Limite  |
