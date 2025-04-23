@@ -68,13 +68,12 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 
 ### Profesores
+
 | Nombre| Hora de clase        | Correo  |
 |-------|----------------------|---------|
 | HERNAN SALINAS                     | MJ 18-20   |hernan.salinas@udea.edu.co|
 | SAMUEL  GALLEGO             | V  10-12   |samuel.quitiang@udea.edu.co|
-| JHON  JARAMILLO  | V  12-14   |jhon.jaramilloe@udea.edu.co|
-| JHON  JARAMILLO  | V  14-16   |jhon.jaramilloe@udea.edu.co|
-| GUSTAVO  CASTRILLON     | V  16-18   |gadolfo.castrillon@udea.edu.co|
+| GUSTAVO  CASTRILLON     | V  14-16   |gadolfo.castrillon@udea.edu.co|
 
 
 
@@ -111,11 +110,11 @@ Al semestre realizaremos dos examenes: un examen parcial y un examen final. En c
 
 | Actividad            | Porcentaje |
 |----------------------|------------|
-| Laboratorio          | 10%        |
+| Laboratorio          | 25%        |
 | Tareas               | 20%        |
 | Proyectos            | 25%        |
 | Examen Parcial       | 15%        |
-| Examen Final         | 30%        |
+| Examen Final         | 15%        |
 
 
 # Honestidad con el curso
