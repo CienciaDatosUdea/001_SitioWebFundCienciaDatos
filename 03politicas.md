@@ -80,7 +80,7 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 Los laboratorios se públican en la página web del curso el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
 
-Hay una excepción, el  primer laboratorio será publicada el día Viernes 25 de Abril, y se entregará a más tardar el día Viernes 2 de Mayo.
+Hay una excepción, el  primer laboratorio será publicada el día Viernes 25 de Abril, y se entregará a más tardar el día 30 de abril.
 
 ## Entrega de tareas
 
