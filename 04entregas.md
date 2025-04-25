@@ -16,7 +16,7 @@ Puede revisar las instrucciones de entrega en este [link](https://docs.google.co
 
 
 | Entrega  |  Fecha Limite  |
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(255, 218, 190, 168); color: white;"> Lab_01</a> |Entregue aqui lab 01 |
+|<a href="https://classroom.google.com/c/Nzc1ODEyMzQ2ODU5/a/Nzc1ODEyMjAyNDkw/details" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1); color: white;"> Lab_01</a> |Entregue aqui lab 01 |
 
 
 
