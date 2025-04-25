@@ -45,7 +45,7 @@ El curso se impartirá los Martes y Jueves de 4:10pm a 5:30pm aproximadamente, s
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| Todos | 16:10 - 17:20| Martes-Jueves |Teórica|3-107|
+| Todos | 16:10 - 17:30| Martes-Jueves |Teórica|3-107|
 
 
 
