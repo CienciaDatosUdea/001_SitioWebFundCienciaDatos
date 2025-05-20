@@ -78,13 +78,13 @@ nav_order: 1
 |:---------|:--------------- |
 | Mayo 27     | `13`{: .fw-700 .fs-5} `Condicionales e iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9](https://inferentialthinking.com/chapters/09/Randomness.html)--[9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec10/lec10_.ipynb){: .btn .float-left} <br><br>{: .label .label-purple .float-left  } <br>[ProjectParte 02: ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/proyectos/proyecto01_02/proyecto_parte02_v0.ipynb){: .label .label-purple .float-left  }
  `(Entrega )`{: .label .label-yellow} <br><br>|
+| Mayo 29     | `14`{: .fw-700 .fs-5} `Iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)--[9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)--[9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)--[0](0) <br><br>[Presentacion](https://docs.google.com/presentation/d/1rDBkT9lfErg1HqbIh_3iyJEhR1MgsZdORyLPZqWsdAw/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec11/lec11_.ipynb){: .btn .float-left}  <br><br> <br> `()`{: .label .label-yellow} <br><br>|
 
 
 
 |Semana 6|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Junio 3     | `14`{: .fw-700 .fs-5} `Iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)--[9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)--[9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)--[0](0) <br><br>[Presentacion](https://docs.google.com/presentation/d/1rDBkT9lfErg1HqbIh_3iyJEhR1MgsZdORyLPZqWsdAw/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec11/lec11_.ipynb){: .btn .float-left}  <br><br> <br> `()`{: .label .label-yellow} <br><br>|
 | Junio 5     | `15`{: .fw-700 .fs-5} `Problema Monty Hall`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1pa0POcadBgwSazDriGAOaPku-nyx0RMub7a_E_iVYXQ/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec12/lec12.ipynb){: .btn .float-left} <br><br>|
 
 
