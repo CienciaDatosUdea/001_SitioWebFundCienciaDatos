@@ -111,7 +111,7 @@ nav_order: 1
  -->
 
 |Semana 10|
-| Junio  17      | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1M2GgRzLbd5ay4wacva9NNEIlMycCH0WiMvm-3srAIzA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec18/lec18.ipynb){: .btn .float-left} [Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/hw/hw05/hw05.ipynb){: .label .label-blue .float-left  } <br>`Julio 12`{: .label .label-yellow} <br><br>| 
+| Junio  17      | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1M2GgRzLbd5ay4wacva9NNEIlMycCH0WiMvm-3srAIzA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec18/lec18.ipynb){: .btn .float-left} [Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`Julio 12`{: .label .label-yellow} <br><br>| 
 | 
 
 
