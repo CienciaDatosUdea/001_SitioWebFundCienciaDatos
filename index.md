@@ -120,23 +120,25 @@ nav_order: 1
 | Junio 17-Julio 10 | Vacaciones |
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 11 Actual</a> |
 |Semana 11|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Julio 10    | `19`{: .fw-700 .fs-5} `Pruebas A/B`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)--[12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1TvpxqPEfdB4QsIw-vh56FaFMjIt7aCA6EkDRbBe1ztY/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec19/lec19.ipynb){: .btn .float-left}  <br><br><br><br>[Lab06: Pruebas de hipotesis ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lab/lab06-V1/lab06.ipynb){: .label .label-green .float-left  }<br> `(Entrega Julio 18)`{: .label .label-yellow}|
-|  Julio 15    | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>|
 
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 11 Actual</a> |
 |Semana 12|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
+|  Julio 15    | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>|
 |  Julio 17  | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec21/lec21.ipynb){: .btn .float-left} 
-| Julio  22     | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
+
+
+
 
 
 |Semana 13|
+| Julio  22     | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
 |  Julio 24   | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec22/lec22.ipynb){: .btn .float-left} 
 | Julio 28      | `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec23/lec23.ipynb){: .btn .float-left}  <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> {: .label .label-yellow}||
 
