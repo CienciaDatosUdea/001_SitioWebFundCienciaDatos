@@ -131,7 +131,7 @@ nav_order: 1
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Julio 15    | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>|
-|  Julio 17  | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec21/lec21.ipynb){: .btn .float-left} 
+|  Julio 17  | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lec/lec21/lec21.ipynb){: .btn .float-left}  <br><br><br><br>[Lab06: Pruebas de hipotesis ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lab/lab07/lab07_.ipynb){: .label .label-green .float-left  }<br> `(Entrega Julio 18)`{: .label .label-yellow}|
 
 
 
