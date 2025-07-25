@@ -139,7 +139,7 @@ nav_order: 1
 |Semana 13|
 | Julio  22     | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
 |   Julio 26    | <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> <br> `(Entrega 1 Agosto)`{: .label .label-yellow}|
-|
+
 
 
 
