@@ -174,13 +174,13 @@ nav_order: 1
 |Semana 17|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Agosto 14     | `34`{: .fw-700 .fs-5} `El problema general en ciencia de datos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1o4vlAbjsb66PaZzXjcpPR8y5fA-QIvcRWMDnMiMsYSY/edit?usp=sharing){: .btn .float-left}   <br><br>|
+| Agosto 14     | `34`{: .fw-700 .fs-5} `El problema general en ciencia de datos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1o4vlAbjsb66PaZzXjcpPR8y5fA-QIvcRWMDnMiMsYSY/edit?usp=sharing){: .btn .float-left}   <br><br>[Proyecto 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/proyectos/proyecto02/project02.ipynb ){: .label .label-blue .float-left  } <br>`()`{: .label .label-yellow} <br><br>|
 
 
 <!-- |  Agosto 14    | `34`{: .fw-700 .fs-5} `Inferencia de regresión`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left}  <br><br>| -->
 
 <!-- 
-[Proyecto 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-01/proyectos/proyecto02/project02.ipynb ){: .label .label-blue .float-left  } <br>`()`{: .label .label-yellow} <br><br>| -->
+ -->
 <!-- 
 |Semana 17|
 |  Fecha   | Sesion          |
