@@ -70,11 +70,11 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 ### Profesores
 
-| Nombre              | Hora de clase| Correo  |
-|---------------------|--------------|--------------------------|
-| HERNAN SALINAS      | MJ 16-18     |hernan.salinas@udea.edu.co|
-| SAMUEL  GALLEGO     | V G1,G2      |samuel.quitiang@udea.edu.co|
-| GUSTAVO  CASTRILLON | V  G3,G4     |gadolfo.castrillon@udea.edu.co|
+| Nombre              | Hora de clase| Correo                         |
+|---------------------|--------------|--------------------------      |
+| HERNAN SALINAS      | MJ 16-18     | hernan.salinas@udea.edu.co     |
+| SAMUEL  GALLEGO     | V G1-G2      | samuel.quitiang@udea.edu.co    |
+| GUSTAVO  CASTRILLON | V  G3-G4     | gadolfo.castrillon@udea.edu.co |
 
 
 
