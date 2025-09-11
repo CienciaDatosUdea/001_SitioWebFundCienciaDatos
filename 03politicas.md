@@ -111,11 +111,11 @@ Al semestre realizaremos dos examenes: un examen parcial y un examen final. En c
 
 | Actividad            | Porcentaje |
 |----------------------|------------|
-| Laboratorio          | 25%        |
-| Tareas               | 20%        |
+| Laboratorio          | 30%        |
+| Tareas               | 25%        |
 | Proyectos            | 15%        |
-| Examen Parcial       | 20%        |
-| Examen Final         | 20%        |
+| Examen Parcial       | 15%        |
+| Examen Final         | 15%        |
 
 
 # Honestidad con el curso
