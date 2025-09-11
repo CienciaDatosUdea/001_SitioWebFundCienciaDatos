@@ -55,8 +55,10 @@ Las sesiones de laboratorios se llevarán a cabo en una sala de computadores,  l
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| 1     | 10:00 - 12:00| Viernes |Práctica|5-104|
-| 2     | 14:00 - 16:00| Viernes |Práctica|5-104|
+| G1     | 10:00 - 12:00| Viernes |Práctica|5-104|
+| G2     | 12:00 - 14:00| Viernes |Práctica|5-104|
+| G3     | 14:00 - 16:00| Viernes |Práctica|5-104|
+| G4     | 16:00 - 18:00| Viernes |Práctica|5-104|
 
 
 
@@ -67,30 +69,29 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 
 ### Profesores
-
 | Nombre| Hora de clase        | Correo  |
 |-------|----------------------|---------|
 | HERNAN SALINAS                     | MJ 16-18   |hernan.salinas@udea.edu.co|
-| SAMUEL  GALLEGO             | V  10-12   |samuel.quitiang@udea.edu.co|
-| GUSTAVO  CASTRILLON     | V  14-16   |gadolfo.castrillon@udea.edu.co|
+| SAMUEL  GALLEGO             | V G1,G2    |samuel.quitiang@udea.edu.co|
+| GUSTAVO  CASTRILLON     | V  G3,G4   |gadolfo.castrillon@udea.edu.co|
 
 
 
 ## Entrega de laboratorios
 
-Los laboratorios se públican en la página web del curso el día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
+Los laboratorios se públican en la página web del curso los día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 8pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
 
-Hay una excepción, el  primer laboratorio será publicada el día Viernes 25 de Abril, y se entregará a más tardar el día 30 de abril.
+Hay una excepción, el  primer laboratorio será publicada el día Lunes 15 de Septiembre, y se entregará el viernes 12 en clase con el profesor. 
 
 ## Entrega de tareas
 
-Las tareas se publican, el día Miércoles, el plazo de entrega es el  miércoles  de la siguiente semana antes de las 8pm.
+Las tareas se publican, el día Miércoles, el plazo de entrega es el  miércoles  de la siguiente semana antes de las 11pm.
 
 <!-- Hay una escepción, la primera tarea será publicada el dia Viernes 13 de Sep y se entrega el dia Viernes 20 Sep en la sesión de  laboratorio de ese día.  -->
 
 ## Presentación tarde tareas
 
-La fecha límite para todas las tareas de este curso es a las 8 PM. Las presentaciones después de este tiempo se aceptarán durante la siguientes 24 horas y tiene una penalización del  20%. No se aceptará ninguna presentación de más de 24 horas después de la fecha límite.
+La fecha límite para todas las tareas de este curso es a las 11 PM. Las presentaciones después de este tiempo se aceptarán durante la siguientes 24 horas y tiene una penalización del  20%. No se aceptará ninguna presentación de más de 24 horas después de la fecha límite.
 
 
 ### Extension de entrega de tareas.
