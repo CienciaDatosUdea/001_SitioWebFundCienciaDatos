@@ -55,10 +55,10 @@ Las sesiones de laboratorios se llevarán a cabo en una sala de computadores,  l
 
 | Grupo | Hora        | Día     | Tipo|Lugar|
 |-------|-------------|---------|--------|----|
-| G1     | 10:00 - 12:00| Viernes |Práctica|5-104|
-| G2     | 12:00 - 14:00| Viernes |Práctica|5-104|
-| G3     | 14:00 - 16:00| Viernes |Práctica|5-104|
-| G4     | 16:00 - 18:00| Viernes |Práctica|5-104|
+| Samuel     | 10:00 - 12:00| Viernes |Práctica|5-104|
+| Gustavo     | 12:00 - 14:00| Viernes |Práctica|5-104|
+| Gustavo     | 14:00 - 16:00| Viernes |Práctica|5-104|
+| Samuel     | 16:00 - 18:00| Viernes |Práctica|5-104|
 
 
 

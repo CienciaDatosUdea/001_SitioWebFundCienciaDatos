@@ -30,7 +30,7 @@ nav_order: 1
 |Semana 0| 
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Sep 11|[Presentacion 0](https://docs.google.com/presentation/d/1dJSFb_8jDyqh-8dV4gBYHpWsHdZoJJ5VtIO2oGaAZ8M/edit?usp=sharing){: .btn .float-left}|
+| Sep 11.  |[Presentacion 0](https://docs.google.com/presentation/d/1dJSFb_8jDyqh-8dV4gBYHpWsHdZoJJ5VtIO2oGaAZ8M/edit?usp=sharing){: .btn .float-left}|
 
 
 
