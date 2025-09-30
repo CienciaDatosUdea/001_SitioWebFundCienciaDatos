@@ -41,7 +41,7 @@ nav_order: 1
 <!-- [Tarea 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw02/hw02.ipynb){: .label .label-blue .float-left  } <br>`(Entrega )`{: .label .label-yellow}<br> -->
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 1 Actual</a> |
+
 |Semana 2|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -49,22 +49,24 @@ nav_order: 1
 |    Sep  24    | `4`{: .fw-700 .fs-5} `Tipos de datos y arreglos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[4](https://inferentialthinking.com/chapters/04/Data_Types.html)--[4.1](https://inferentialthinking.com/chapters/04/1/Numbers.html)--[4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)--[4.2.1](https://inferentialthinking.com/chapters/04/2/1/String_Methods.html)--[4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html)--[5](https://inferentialthinking.com/chapters/05/Sequences.html)--[5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)--[5.2](https://inferentialthinking.com/chapters/05/2/Ranges.html)--[5.3](https://inferentialthinking.com/chapters/05/3/More_on_Arrays.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/14ZT4u7ONzuhz3XBSvM2kU9w-m3t8MMcnR5UgemOsjJM/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec04/lec04.ipynb){: .btn .float-left} <br><br> [Lab02: Expresiones](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab02/lab02.ipynb){: .label .label-green .float-left  }<br> `(Entrega Oct 1)`{: .label .label-yellow} <br><br>|
 
 
-<!-- [Lab03: Operaciones con tablas](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab03/lab03.ipynb){: .label .label-green .float-left  }<br> `(Entrega )`{: .label .label-yellow} <br><br>| -->
 
-
-
-<!-- 
-{: .fw-700 .fs-5} `Censo`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html)--[6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>`7`{: .fw-700 .fs-5}  -->
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 1 Actual</a> |
 |Semana 3|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |     | `5`{: .fw-700 .fs-5} `Construcción de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6](https://inferentialthinking.com/chapters/06/Tables.html)--[6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)--[6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/14ZT4u7ONzuhz3XBSvM2kU9w-m3t8MMcnR5UgemOsjJM/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec04/lec04.ipynb){: .btn .float-left}   <br><br>|  |  |
-| Sep 30     | `6,7` `Gráficos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7](https://inferentialthinking.com/chapters/07/Visualization.html)--[7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1k8wBOYWiyoCCekHVT54qfbJe8HGR5BVD3fttnXnecrE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec05/lec05.ipynb){: .btn .float-left} <br><br>[Tarea 03](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw03/hw03.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  )`{: .label .label-yellow} <br><br>|
-| Oct 2      | `8` `Histogramas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)--[7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1iZ8x43rmf5zEfho_gJJg2OwWVafT5xJZy7QwUVabmSs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec06/lec06.ipynb){: .btn .float-left} <br><br> <br><br>[Lab04: Tipos de datos](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab04/lab04.ipynb){: .label .label-green .float-left  }<br> `(Entrega )`{: .label .label-yellow} <br><br><br><br>|
+| Sep 30     | `6,7` `Gráficos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7](https://inferentialthinking.com/chapters/07/Visualization.html)--[7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1k8wBOYWiyoCCekHVT54qfbJe8HGR5BVD3fttnXnecrE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec05/lec05.ipynb){: .btn .float-left} <br><br>[Tarea 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw02/hw02.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  )`{: .label .label-yellow} <br><br>|
+| Oct 2      | `8` `Histogramas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)--[7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1iZ8x43rmf5zEfho_gJJg2OwWVafT5xJZy7QwUVabmSs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec06/lec06.ipynb){: .btn .float-left} <br><br> <br><br>[Lab03: Operaciones con tablas](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab03/lab03.ipynb){: .label .label-green .float-left  }<br> `(Entrega )`{: .label .label-yellow} <br><br> |
 
 
 
+<!-- 
+
+[Lab04: Tipos de datos](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab04/lab04.ipynb){: .label .label-green .float-left  }<br> `(Entrega )`{: .label .label-yellow} <br><br><br><br>
+-->
+
+<!-- 
+{: .fw-700 .fs-5} `Censo`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html)--[6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>`7`{: .fw-700 .fs-5}  -->
 
 |Semana 4|
 |  Fecha   | Sesion          |
