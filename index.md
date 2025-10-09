@@ -50,7 +50,6 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 1 Actual</a> |
 |Semana 3|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -69,13 +68,12 @@ nav_order: 1
 
 
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 4 Actual</a> |
 |Semana 4|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Oct 7 (No hay clase)     |[Tarea 03](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw03/hw03.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  6   )`{: .label .label-yellow}  <br><br>||
-
-| Oct 9  (No hay clase)   | [Lab04: Tipos de datos](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab04/lab04.ipynb){: .label .label-green .float-left  }<br> `(Entrega )`{: .label .label-yellow} <br><br><br><br>|
+| Oct 7 (No hay clase)     |[Tarea 03](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw03/hw03.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  Miercoles 15   )`{: .label .label-yellow}  <br><br>||
+| Oct 9  (No hay clase)   | [Lab04: Tipos de datos](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab04/lab04.ipynb){: .label .label-green .float-left  }<br> `(Entrega Viernes 17 )`{: .label .label-yellow} <br><br><br><br>|
 
 
 
