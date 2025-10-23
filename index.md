@@ -77,7 +77,7 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 4 Actual</a> |
+
 |Semana 5|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -85,13 +85,15 @@ nav_order: 1
 |    | `Groupby`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html)--[8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html) <br><br> <br><br> `11`{: .fw-700 .fs-5} `Pivotes y uniones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)|
 |   Oct 16     | `12`{: .fw-700 .fs-5} `Ejemplos de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/13VOrffuCOHMtZF8mNsT3G-3EiAuH8UaaBnu4cDrwzco/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec08/lec08V1.ipynb){: .btn .float-left} <br><br>[Project01_Parte01: Poblacion mundial y pobreza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/proyectos/proyecto01/proyecto_01.ipynb){: .label .label-green .float-left  }<br> `(Entrega  )`{: .label .label-yellow}<br><br>|
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 6 Actual</a> |
 |Semana 6|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Oct     | `13`{: .fw-700 .fs-5} `Condicionales e iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9](https://inferentialthinking.com/chapters/09/Randomness.html)--[9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1YfQ7NZkPLzVuFG0ZaQFa6wgRAxpZHg1tYouFsI98NBE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec10/lec10.ipynb){: .btn .float-left} <br><br>{: .label .label-purple .float-left  } <br>[Project01_Parte02: ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/proyectos/proyecto01/proyecto01.ipynb){: .label .label-purple .float-left }`(Entrega )`{: .label .label-yellow} <br><br>|
-| Oct      | `14`{: .fw-700 .fs-5} `Iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)--[9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)--[9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)--[0](0) <br><br>[Presentacion](https://docs.google.com/presentation/d/1rDBkT9lfErg1HqbIh_3iyJEhR1MgsZdORyLPZqWsdAw/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec11/lec11.ipynb){: .btn .float-left}  <br><br> [Tarea 05](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw05/hw05.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  6   )`{: .label .label-yellow}  <br><br>|
+| Oct     | `13`{: .fw-700 .fs-5} `Condicionales e iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9](https://inferentialthinking.com/chapters/09/Randomness.html)--[9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1YfQ7NZkPLzVuFG0ZaQFa6wgRAxpZHg1tYouFsI98NBE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec10/lec10_.ipynb){: .btn .float-left} <br><br>{: .label .label-purple .float-left  } <br>[Project01_Parte02: ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/proyectos/proyecto01/proyecto01.ipynb){: .label .label-purple .float-left }`(Entrega )`{: .label .label-yellow} <br><br>|
+| Oct      | `14`{: .fw-700 .fs-5} `Iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)--[9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)--[9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)--[0](0) <br><br>[Presentacion](https://docs.google.com/presentation/d/1rDBkT9lfErg1HqbIh_3iyJEhR1MgsZdORyLPZqWsdAw/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec11/lec11.ipynb){: .btn .float-left} |
 
+
+<!-- <br><br> [Tarea 05](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw05/hw05.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  6   )`{: .label .label-yellow}  <br><br> -->
 
 |Semana 6|
 |  Fecha   | Sesion          |
