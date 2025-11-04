@@ -95,7 +95,6 @@ nav_order: 1
 
 <!-- <br><br> [Tarea 05](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw05/hw05.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  6   )`{: .label .label-yellow}  <br><br> -->
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 6 Actual</a> |
 |Semana 7|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -103,11 +102,11 @@ nav_order: 1
 |  | [Lab05: Ciclos y Simulacion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab05/lab05.ipynb){: .label .label-green .float-left  }<br> `(Entrega 7  )`{: .label .label-yellow}|
 
 
-
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 6 Actual</a> |
 |Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Nov      | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec13/lec13.ipynb){: .btn .float-left}|
+| Nov 4     | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec13/lec13.ipynb){: .btn .float-left}|
 |Nov  | `17`{: .fw-700 .fs-5} `Modelos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html)--[10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html)--[10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/12L3Ode23eJY1hIrSHAKEoM0vykUwZBq1wegkVQitqs4/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec14/lec14.ipynb){: .btn .float-left}  <br><br>|
 |  Nov       | `17`{: .fw-700 .fs-5} `Comparación de distribución`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)--[11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)--[11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ox2oDF6FpTTSshY6P4RHLU2z3yiQG3AvwKiMIvMymiY/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec17/lec17.ipynb){: .btn .float-left}  <br><br>[](){: .label .label-green .float-left  }<br> `(Entrega ... )`{: .label .label-yellow} <br><br>|
 
