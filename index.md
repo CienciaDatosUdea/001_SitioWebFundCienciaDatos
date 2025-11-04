@@ -102,7 +102,7 @@ nav_order: 1
 |  | [Lab05: Ciclos y Simulacion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab05/lab05.ipynb){: .label .label-green .float-left  }<br> `(Entrega 7  )`{: .label .label-yellow}|
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 6 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 8 Actual</a> |
 |Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
