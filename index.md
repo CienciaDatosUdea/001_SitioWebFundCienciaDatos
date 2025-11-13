@@ -102,7 +102,7 @@ nav_order: 1
 |  | [Lab05: Ciclos y Simulacion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab05/lab05.ipynb){: .label .label-green .float-left  }<br> `(Entrega 13 Nov  )`{: .label .label-yellow}|
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 8 Actual</a> |
+
 |Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -128,12 +128,16 @@ nav_order: 1
 | Ene 30     | `17`{: .fw-700 .fs-5} `Repaso 3`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[Libro Guia](https://inferentialthinking.com/chapters/01/what-is-data-science.html) <br><br>[Presentacion](){: .btn .float-left} [Notebook_Sesion](){: .btn .float-left} <br><br>|
  -->
 
-|Semana 10|
-| Nov       | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1M2GgRzLbd5ay4wacva9NNEIlMycCH0WiMvm-3srAIzA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec18/lec18.ipynb){: .btn .float-left} [Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`   12`{: .label .label-yellow} <br><br>| | 
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 9 Actual</a> |
+|Semana 9|
+| Nov    13   | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1M2GgRzLbd5ay4wacva9NNEIlMycCH0WiMvm-3srAIzA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec18/lec18.ipynb){: .btn .float-left} | 
 |  Nov        | `19`{: .fw-700 .fs-5} `Pruebas A/B`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)--[12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1TvpxqPEfdB4QsIw-vh56FaFMjIt7aCA6EkDRbBe1ztY/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec19/lec19.ipynb){: .btn .float-left}  <br><br><br><br>[Lab06: Pruebas de hipotesis ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab06-V1/lab06.ipynb){: .label .label-green .float-left  }<br> `(Entrega    18)`{: .label .label-yellow}|
 
 
-|Semana 12|
+
+<!-- [Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`   12`{: .label .label-yellow} <br><br>|  -->
+
+|Semana 10|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |   Nov     | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>|
@@ -142,21 +146,21 @@ nav_order: 1
 
 
 
-|Semana |
+|Semana 11|
 | Nov  18    | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
 |   Nov  20    | <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> <br> `(Entrega    )`{: .label .label-yellow}|
 
 
 
 
-|Semana 14|
+|Semana 12|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Nov  25   | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec22/lec22_.ipynb){: .btn .float-left} |
 | Nov  27     | `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec23/lec23.ipynb){: .btn .float-left}  |
 
 
-|Semana 14|
+|Semana 13|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |    Dec 2    | `25`{: .fw-700 .fs-5} `Media, desviacion estandar y distribucion normal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)--[14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html)--[14.2](https://inferentialthinking.com/chapters/14/2/Variability.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1HiBcZEcMZjmUIfUHXWHJupzLO1Qmy2xknMBvLfdbYVA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec24/lec24.ipynb){: .btn .float-left}  |
@@ -165,14 +169,14 @@ nav_order: 1
 
 
 
-|Semana 15|
+|Semana 14|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Dec 9 | `27`{: .fw-700 .fs-5} `Media muestral`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec26/lec26.ipynb){: .btn .float-left} |
 | Dec 11     | `28`{: .fw-700 .fs-5} `Diseño de experimentos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} |
 
 
-|Semana 16|
+|Semana 15|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |   Dec 16  | `29`{: .fw-700 .fs-5} `Correlación`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15](https://inferentialthinking.com/chapters/15/Prediction.html)--[15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) <br><br><br><br>|
@@ -181,7 +185,7 @@ nav_order: 1
 
 
 
-|Semana 17|
+|Semana 16|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Dec  23     | `34`{: .fw-700 .fs-5} `El problema general en ciencia de datos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1o4vlAbjsb66PaZzXjcpPR8y5fA-QIvcRWMDnMiMsYSY/edit?usp=sharing){: .btn .float-left}   <br><br>[Proyecto 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/proyectos/proyecto02/project02.ipynb ){: .label .label-blue .float-left  } <br>`()`{: .label .label-yellow} <br><br>||
