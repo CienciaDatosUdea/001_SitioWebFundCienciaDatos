@@ -141,11 +141,11 @@ nav_order: 1
 
 
 
-|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 10 Actual</a> |
+|<a href="" class="btn fs-5 mb-4 mb-md-0" style="background-color: green; color: white;"> Semana 11 Actual</a> |
 |Semana 11|
 |  Nov   25 | `21`{: .fw-700 .fs-5} `Ejemplos y Repaso`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html) [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec21/lec21.ipynb){: .btn .float-left}  <br><br>|
 | Nov  27   | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
-|   Nov  20    | <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> <br> `(Entrega    )`{: .label .label-yellow}|
+|   Nov  28    | <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> <br> `(Entrega  Dic  4)`{: .label .label-yellow}|
 
 
 
