@@ -132,7 +132,7 @@ nav_order: 1
 
 
 
-<!-- [Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`   12`{: .label .label-yellow} <br><br>|  -->
+
 |Semana 10|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -151,8 +151,8 @@ nav_order: 1
 |Semana 12|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-|  Dic   2  | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec22/lec22_.ipynb){: .btn .float-left} |
-| Dic     4 | `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec23/lec23.ipynb){: .btn .float-left}  |
+|  Dic   2  | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec22/lec22_.ipynb){: .btn .float-left}[Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`   12`{: .label .label-yellow} <br><br>|  
+| Dic     4 | `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec23/lec23.ipynb){: .btn .float-left} <br><br>[Lab09: Distribucion normal ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab09/lab09.ipynb ){: .label .label-green .float-left  } |
 
 
 |Semana 13|
@@ -176,7 +176,7 @@ nav_order: 1
 |:---------|:--------------- |
 |   Dec   | `29`{: .fw-700 .fs-5} `Correlación`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15](https://inferentialthinking.com/chapters/15/Prediction.html)--[15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) <br><br><br><br>|
 |     | `30`{: .fw-700 .fs-5} `Regresión lineal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec26/lec26.ipynb){: .btn .float-left}  <br><br>|
-|  Dec      | `31,32,33`{: .fw-700 .fs-5} `Mínimos cuadrados, Residuos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)--[15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ICKP497lqssN_xNiDmgAfFtg5VzSUX0dKpDliZPRHZA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec27/lec27.ipynb){: .btn .float-left} <br><br>[Lab09: Distribucion normal ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab09/lab09.ipynb ){: .label .label-green .float-left  }<br> <br><br>[Lab10: Regresión lineal](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab10/lab10.ipynb ){: .label .label-green .float-left  }|
+|  Dec      | `31,32,33`{: .fw-700 .fs-5} `Mínimos cuadrados, Residuos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)--[15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ICKP497lqssN_xNiDmgAfFtg5VzSUX0dKpDliZPRHZA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec27/lec27.ipynb){: .btn .float-left} <br> <br><br>[Lab10: Regresión lineal](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab10/lab10.ipynb ){: .label .label-green .float-left  }|
 
 
 
