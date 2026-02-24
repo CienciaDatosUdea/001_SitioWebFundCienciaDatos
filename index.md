@@ -224,7 +224,7 @@ nav_order: 1
 <!-- 
  -->    
     
-En construcción: Basado en http://www.data8.org/zero-to-data-8/intro.html#types-of-content
+<!-- En construcción: Basado en http://www.data8.org/zero-to-data-8/intro.html#types-of-content -->
 
     
     
