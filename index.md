@@ -29,10 +29,10 @@ nav_order: 1
 |Semana 0| 
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Sep 11.  |[Presentacion 0](https://docs.google.com/presentation/d/1dJSFb_8jDyqh-8dV4gBYHpWsHdZoJJ5VtIO2oGaAZ8M/edit?usp=sharing){: .btn .float-left}|
+| Jueves 24  |[Presentacion 0](https://docs.google.com/presentation/d/1dJSFb_8jDyqh-8dV4gBYHpWsHdZoJJ5VtIO2oGaAZ8M/edit?usp=sharing){: .btn .float-left}|
 
 
-
+<!-- 
 |Semana 1|
 | Sep 16     | `1`{: .fw-700 .fs-5} `Introducción`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[1](https://inferentialthinking.com/chapters/01/what-is-data-science.html)--[1.1](https://inferentialthinking.com/chapters/01/1/intro.html)--[1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html)--[1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)--[1.3.1](https://inferentialthinking.com/chapters/01/3/1/Literary_Characters.html)--[1.3.2](https://inferentialthinking.com/chapters/01/3/2/Another_Kind_Of_Character.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1CZ8Uq6HSYY_lhGRomGc0Yd9eCcm0Genqw9WsoDO5Nuw/edit?usp=sharing){: .btn .float-left}  [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec01/lec01.ipynb){: .btn .float-left} <br><br>[Lab01: Expresiones](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lab/lab01/lab01.ipynb){: .label .label-green .float-left  }<br> `(Entrega Septiembre  24)`{: .label .label-yellow} <br><br>|
 | Sep 18     | `2`{: .fw-700 .fs-5} `Causa y efecto`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)--[2.1](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)--[2.2](https://inferentialthinking.com/chapters/02/2/snow-s-grand-experiment.html)--[2.3](https://inferentialthinking.com/chapters/02/3/establishing-causality.html)--[2.4](https://inferentialthinking.com/chapters/02/4/randomization.html)--[2.5](https://inferentialthinking.com/chapters/02/5/endnote.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1seeuwPS08ka9_tTkQ9aVy7ujnCrVSs14jUFqvDxf6kk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/lec/lec02/lec02.ipynb){: .btn .float-left} <br><br>|
@@ -41,7 +41,7 @@ nav_order: 1
 <!-- [Tarea 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/hw/hw02/hw02.ipynb){: .label .label-blue .float-left  } <br>`(Entrega )`{: .label .label-yellow}<br> -->
 
 
-
+<!-- 
 |Semana 2|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
@@ -182,8 +182,8 @@ nav_order: 1
 |Semana 16|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-|  Enero      | `34`{: .fw-700 .fs-5} `El problema general en ciencia de datos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1o4vlAbjsb66PaZzXjcpPR8y5fA-QIvcRWMDnMiMsYSY/edit?usp=sharing){: .btn .float-left}   <br><br>[Proyecto 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/proyectos/proyecto02/project02.ipynb ){: .label .label-blue .float-left  } <br>`()`{: .label .label-yellow} <br><br>||
-
+|  Enero      | `34`{: .fw-700 .fs-5} `El problema general en ciencia de datos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1o4vlAbjsb66PaZzXjcpPR8y5fA-QIvcRWMDnMiMsYSY/edit?usp=sharing){: .btn .float-left}   <br><br>[Proyecto 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2025-02/proyectos/proyecto02/project02.ipynb ){: .label .label-blue .float-left  } <br>`()`{: .label .label-yellow} <br><br>|| -->
+ -->
 
 <!-- |      14    | `34`{: .fw-700 .fs-5} `Inferencia de regresión`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)--[16.1](https://inferentialthinking.com/chapters/16/1/Regression_Model.html)--[16.2](https://inferentialthinking.com/chapters/16/2/Inference_for_the_True_Slope.html)--[16.3](https://inferentialthinking.com/chapters/16/3/Prediction_Intervals.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left}  <br><br>| -->
 
