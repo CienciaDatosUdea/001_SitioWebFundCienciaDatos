@@ -41,7 +41,10 @@ nav_order: 1
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |    Sep  24    | `4`{: .fw-700 .fs-5} `Tipos de datos y arreglos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[4](https://inferentialthinking.com/chapters/04/Data_Types.html)--[4.1](https://inferentialthinking.com/chapters/04/1/Numbers.html)--[4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)--[4.2.1](https://inferentialthinking.com/chapters/04/2/1/String_Methods.html)--[4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html)--[5](https://inferentialthinking.com/chapters/05/Sequences.html)--[5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)--[5.2](https://inferentialthinking.com/chapters/05/2/Ranges.html)--[5.3](https://inferentialthinking.com/chapters/05/3/More_on_Arrays.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/14ZT4u7ONzuhz3XBSvM2kU9w-m3t8MMcnR5UgemOsjJM/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec04/lec04.ipynb){: .btn .float-left} <br><br> |
+
 |     | `5`{: .fw-700 .fs-5} `Construcción de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6](https://inferentialthinking.com/chapters/06/Tables.html)--[6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)--[6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/14ZT4u7ONzuhz3XBSvM2kU9w-m3t8MMcnR5UgemOsjJM/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec05/lec05.ipynb){: .btn .float-left}   <br><br>|  |  |
+
+
 <!-- 
 
 <!-- 
