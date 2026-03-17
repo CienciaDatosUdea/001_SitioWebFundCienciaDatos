@@ -44,6 +44,13 @@ nav_order: 1
 |     | `5`{: .fw-700 .fs-5} `Construcción de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6](https://inferentialthinking.com/chapters/06/Tables.html)--[6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)--[6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1k8wBOYWiyoCCekHVT54qfbJe8HGR5BVD3fttnXnecrE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec05/lec05.ipynb){: .btn .float-left}   <br><br>[Tarea 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw02/hw02.ipynb){: .label .label-blue .float-left  } <br>`(Entrega Jueves 19)`{: .label .label-yellow}<br>|  |  |
 
 
+|Semana 3|
+|  Fecha   | Sesion          |
+|:---------|:--------------- |
+| Marzo 17     | `6,7` `Gráficos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7](https://inferentialthinking.com/chapters/07/Visualization.html)--[7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1iZ8x43rmf5zEfho_gJJg2OwWVafT5xJZy7QwUVabmSs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec05/lec05.ipynb){: .btn .float-left}|
+|  Marzo 19     | `8` `Histogramas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)--[7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1iZ8x43rmf5zEfho_gJJg2OwWVafT5xJZy7QwUVabmSs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec06/lec06.ipynb){: .btn .float-left} <br><br> <br><br>|
+
+
 <!-- 
 
 <!-- 
@@ -54,13 +61,6 @@ nav_order: 1
 <!-- 
 
 
-
-|Semana 3|
-|  Fecha   | Sesion          |
-|:---------|:--------------- |
-
-| Sep 30     | `6,7` `Gráficos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7](https://inferentialthinking.com/chapters/07/Visualization.html)--[7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1k8wBOYWiyoCCekHVT54qfbJe8HGR5BVD3fttnXnecrE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec05/lec05.ipynb){: .btn .float-left} <br><br>[Tarea 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw02/hw02.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  )`{: .label .label-yellow} <br><br>|
-| Oct 2      | `8` `Histogramas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)--[7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1iZ8x43rmf5zEfho_gJJg2OwWVafT5xJZy7QwUVabmSs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec06/lec06.ipynb){: .btn .float-left} <br><br> <br><br>|
 
 
 
