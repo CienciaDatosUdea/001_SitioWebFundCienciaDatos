@@ -51,6 +51,18 @@ nav_order: 1
 |  Marzo 19     | `8` `Histogramas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)--[7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1XDZTA6RYoslsnkvwamvCbTSf54o2lGixOSfIUZMsnrc/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec07/lec07.ipynb){: .btn .float-left} <br><br>[Lab04: Tipos de datos](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab04/lab04.ipynb){: .label .label-green .float-left  }<br> `(Entrega Jueves 25 )`{: .label .label-yellow} <br><br>|
 
 
+
+|Semana 4|
+|  Fecha   | Sesion          |
+|:---------|:--------------- |
+| Marzo 24      | `9,10`{: .fw-700 .fs-5} `Funciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html)--[8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/13VOrffuCOHMtZF8mNsT3G-3EiAuH8UaaBnu4cDrwzco/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec08/lec08V1.ipynb){: .btn .float-left} <br><br>|
+|    | `Groupby`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html)--[8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html) <br><br> <br><br> `11`{: .fw-700 .fs-5} `Pivotes y uniones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)|
+|  | `12`{: .fw-700 .fs-5} `Ejemplos de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/13VOrffuCOHMtZF8mNsT3G-3EiAuH8UaaBnu4cDrwzco/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec08/lec08_practicaTablas.ipynb){: .btn .float-left} <br><br>|
+
+
+
+<!-- <br><br>[Project01_Parte01: Poblacion mundial y pobreza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/proyectos/proyecto01/proyecto_01.ipynb){: .label .label-green .float-left  }<br> `(Entrega  )`{: .label .label-yellow} -->
+
 <!-- 
 {: .fw-700 .fs-5} `Censo`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html)--[6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html) <br><br>[Presentacion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} [Notebook_Sesion](https://inferentialthinking.com/chapters/01/what-is-data-science.html){: .btn .float-left} <br><br>`7`{: .fw-700 .fs-5}  -->
 
@@ -66,12 +78,6 @@ nav_order: 1
  -->
 
 <!-- 
-|Semana 5|
-|  Fecha   | Sesion          |
-|:---------|:--------------- |
-| Oct 14      | `9,10`{: .fw-700 .fs-5} `Funciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html)--[8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1XDZTA6RYoslsnkvwamvCbTSf54o2lGixOSfIUZMsnrc/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec07/lec07.ipynb){: .btn .float-left} <br><br>|
-|    | `Groupby`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html)--[8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html) <br><br> <br><br> `11`{: .fw-700 .fs-5} `Pivotes y uniones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)|
-|   Oct 16     | `12`{: .fw-700 .fs-5} `Ejemplos de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/13VOrffuCOHMtZF8mNsT3G-3EiAuH8UaaBnu4cDrwzco/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec08/lec08V1.ipynb){: .btn .float-left} <br><br>[Project01_Parte01: Poblacion mundial y pobreza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/proyectos/proyecto01/proyecto_01.ipynb){: .label .label-green .float-left  }<br> `(Entrega  )`{: .label .label-yellow}<br><br>|
 
  -->
 <!-- |Semana 6|
