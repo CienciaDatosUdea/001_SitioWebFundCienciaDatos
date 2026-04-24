@@ -77,7 +77,10 @@ nav_order: 1
 |Semana 7|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-| Abril 21     | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec13/lec13.ipynb){: .btn .float-left}|
+| Abril 21     | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec13/lec13.ipynb){: .btn .float-left}<br><br>
+[Lab05: Ciclos y Simulacion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab05/lab05.ipynb){: .label .label-green .float-left  }<br> `(Entrega 1 Mayo  )`{: .label .label-yellow}|
+| Abril 23     | no tuvismo clase|
+
 
 
 
@@ -111,7 +114,7 @@ nav_order: 1
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Oct 28     | `15`{: .fw-700 .fs-5} `Problema Monty Hall`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1pa0POcadBgwSazDriGAOaPku-nyx0RMub7a_E_iVYXQ/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec12/lec12.ipynb){: .btn .float-left} <br><br>|
-|  | [Lab05: Ciclos y Simulacion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab05/lab05.ipynb){: .label .label-green .float-left  }<br> `(Entrega 13 Nov  )`{: .label .label-yellow}|
+
 
  -->
 
