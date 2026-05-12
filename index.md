@@ -96,15 +96,17 @@ nav_order: 1
  | Mayo    5   | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1M2GgRzLbd5ay4wacva9NNEIlMycCH0WiMvm-3srAIzA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec18/lec18.ipynb){: .btn .float-left}<br><br>[Lab06: Pruebas de hipotesis ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab06-V1/lab06.ipynb){: .label .label-green .float-left  }<br> `(Entrega    14 Mayo)`{: .label .label-yellow} |  
 |  Mayo    7    | `19`{: .fw-700 .fs-5} `Pruebas A/B`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)--[12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1TvpxqPEfdB4QsIw-vh56FaFMjIt7aCA6EkDRbBe1ztY/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec19/lec19.ipynb){: .btn .float-left}  <br><br><br> [Tarea 05](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw05/hw05.ipynb){: .label .label-blue .float-left } <br>(Entrega  14 Mayo ){: .label .label-yellow} <br><br>|
 
+
+
 |Semana 10|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-|   Mayo   12  | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br><br><br>[Lab07: Pruebas A/B ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab07/lab07_.ipynb){: .label .label-green .float-left  }<br> `(Entrega 27 novimebre   )`{: .label .label-yellow}| 
+|   Mayo   12  | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>| 
 | Mayo  14  | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
 
 
 
-
+<!-- <br><br>[Lab07: Pruebas A/B ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab07/lab07_.ipynb){: .label .label-green .float-left  }<br> `(Entrega 27 novimebre   )`{: .label .label-yellow} -->
 <!--
 
 
