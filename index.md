@@ -98,13 +98,12 @@ nav_order: 1
 
 
 
-|Semana 10|
+|Semana 11|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
-|   Mayo   12  | `20`{: .fw-700 .fs-5} `Causalidad`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[12.2](https://inferentialthinking.com/chapters/12/2/Causality.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1oeb2unQj5V4e_YdDZR1HhP6AA7lZtTwXbXleW6PnJbE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec20/lec20.ipynb){: .btn .float-left} <br><br>| 
-| Mayo  14  | `22`{: .fw-700 .fs-5} `Examen`{: .fw-700 .fs-5}  <br><br>[exam01]( ){: .label .label-red .float-left  } <br><br>|
+|  Dic   2  | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec22/lec22_.ipynb)| 
 
-
+<!-- {: .btn .float-left}[Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`   12`{: .label .label-yellow} <br><br> -->
 
 <!-- <br><br>[Lab07: Pruebas A/B ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab07/lab07_.ipynb){: .label .label-green .float-left  }<br> `(Entrega 27 novimebre   )`{: .label .label-yellow} -->
 <!--
@@ -207,6 +206,8 @@ nav_order: 1
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Dic   2  | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec22/lec22_.ipynb){: .btn .float-left}[Tarea 06](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw06/hw06.ipynb){: .label .label-blue .float-left  } <br>`   12`{: .label .label-yellow} <br><br>|  
+
+
 | Dic     4 | `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec23/lec23.ipynb){: .btn .float-left} <br><br>[Lab09: Distribucion normal ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab09/lab09.ipynb ){: .label .label-green .float-left  } | -->
 
 <!-- 
