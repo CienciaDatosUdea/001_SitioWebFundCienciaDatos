@@ -26,25 +26,25 @@ nav_order: 1
 <div class="code-example" markdown="1">
     
 
-|Semana 0| 
+|Semana 1| 
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Martes 24 Feb  |[Presentacion 0](https://docs.google.com/presentation/d/1dJSFb_8jDyqh-8dV4gBYHpWsHdZoJJ5VtIO2oGaAZ8M/edit?usp=sharing){: .btn .float-left}|
 | Jueves 26 Feb    | `1`{: .fw-700 .fs-5} `Introducción`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[1](https://inferentialthinking.com/chapters/01/what-is-data-science.html)--[1.1](https://inferentialthinking.com/chapters/01/1/intro.html)--[1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html)--[1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)--[1.3.1](https://inferentialthinking.com/chapters/01/3/1/Literary_Characters.html)--[1.3.2](https://inferentialthinking.com/chapters/01/3/2/Another_Kind_Of_Character.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1CZ8Uq6HSYY_lhGRomGc0Yd9eCcm0Genqw9WsoDO5Nuw/edit?usp=sharing){: .btn .float-left}  [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec01/lec01.ipynb){: .btn .float-left} <br><br>[Lab01: Expresiones](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab01/lab01.ipynb){: .label .label-green .float-left  }<br> `(Entrega Lunes 2 Marzo)`{: .label .label-yellow} <br><br>|
 
-|Semana 1|
+|Semana 2|
 |Martes 3 Marzo     | `2`{: .fw-700 .fs-5} `Causa y efecto`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)--[2.1](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)--[2.2](https://inferentialthinking.com/chapters/02/2/snow-s-grand-experiment.html)--[2.3](https://inferentialthinking.com/chapters/02/3/establishing-causality.html)--[2.4](https://inferentialthinking.com/chapters/02/4/randomization.html)--[2.5](https://inferentialthinking.com/chapters/02/5/endnote.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1seeuwPS08ka9_tTkQ9aVy7ujnCrVSs14jUFqvDxf6kk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec02/lec02.ipynb){: .btn .float-left} <br><br>[Tarea 01](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw01/hw01.ipynb){: .label .label-blue .float-left  } <br>(Entrega Marzo 11 )`{: .label .label-yellow}<br><br>|
 |Jueves 5 Marzo| `3`{: .fw-700 .fs-5} `Tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[3](https://inferentialthinking.com/chapters/03/programming-in-python.html)--[3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html)--[3.2](https://inferentialthinking.com/chapters/03/2/Names.html)--[3.2.1](https://inferentialthinking.com/chapters/03/2/1/Growth.html)--[3.3](https://inferentialthinking.com/chapters/03/3/Calls.html)--[3.4](https://inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1NUNQ4gbXlXlj8pv9SMWldH-1Frh6cuJr37011ops90s/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec03/lec03.ipynb){: .btn .float-left} <br><br>[Lab02: Expresiones](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab02/lab02.ipynb){: .label .label-green .float-left  }<br> `(Entrega Marzo 11)`{: .label .label-yellow} <br><br>|
 
 
-|Semana 2|
+|Semana 3|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |    Marzo  10    | `4`{: .fw-700 .fs-5} `Tipos de datos y arreglos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[4](https://inferentialthinking.com/chapters/04/Data_Types.html)--[4.1](https://inferentialthinking.com/chapters/04/1/Numbers.html)--[4.2](https://inferentialthinking.com/chapters/04/2/Strings.html)--[4.2.1](https://inferentialthinking.com/chapters/04/2/1/String_Methods.html)--[4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html)--[5](https://inferentialthinking.com/chapters/05/Sequences.html)--[5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)--[5.2](https://inferentialthinking.com/chapters/05/2/Ranges.html)--[5.3](https://inferentialthinking.com/chapters/05/3/More_on_Arrays.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/14ZT4u7ONzuhz3XBSvM2kU9w-m3t8MMcnR5UgemOsjJM/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec04/lec04.ipynb){: .btn .float-left} <br><br> [Lab03: Operaciones con tablas](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab03/lab03.ipynb){: .label .label-green .float-left  }<br> `(Entrega Miercoles 18)`{: .label .label-yellow} <br><br> |
 |     | `5`{: .fw-700 .fs-5} `Construcción de tablas`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[6](https://inferentialthinking.com/chapters/06/Tables.html)--[6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)--[6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1k8wBOYWiyoCCekHVT54qfbJe8HGR5BVD3fttnXnecrE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec05/lec05.ipynb){: .btn .float-left}   <br><br>[Tarea 02](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw02/hw02.ipynb){: .label .label-blue .float-left  } <br>`(Entrega Jueves 19)`{: .label .label-yellow}<br>|  |  |
 
 
-|Semana 3|
+|Semana 4|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Marzo 17     | `6,7` `Gráficos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[7](https://inferentialthinking.com/chapters/07/Visualization.html)--[7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1iZ8x43rmf5zEfho_gJJg2OwWVafT5xJZy7QwUVabmSs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec06/lec06.ipynb){: .btn .float-left}<br><br>[Tarea 03](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/hw/hw03/hw03.ipynb){: .label .label-blue .float-left  } <br>`(Entrega  Jueves 26   )`{: .label .label-yellow}  <br><br>||
@@ -52,7 +52,7 @@ nav_order: 1
 
 
 
-|Semana 4|
+|Semana 5|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Marzo 24      | `9,10`{: .fw-700 .fs-5} `Funciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html)--[8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/13VOrffuCOHMtZF8mNsT3G-3EiAuH8UaaBnu4cDrwzco/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec08/lec08V0.ipynb){: .btn .float-left} <br><br>|
@@ -61,20 +61,20 @@ nav_order: 1
 
 
 
-|Semana 5|
+|Semana 6|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Abril   7 | `13`{: .fw-700 .fs-5} `Condicionales e iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9](https://inferentialthinking.com/chapters/09/Randomness.html)--[9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1YfQ7NZkPLzVuFG0ZaQFa6wgRAxpZHg1tYouFsI98NBE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec10/lec10_V1.ipynb){: .btn .float-left} <br><br>{: .label .label-purple .float-left  } <br>[Project01: Poblacion mundial y pobreza ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/proyectos/proyecto01/proyecto_01.ipynb){: .label .label-purple .float-left }`(Entrega 17 Abril)`{: .label .label-yellow} <br><br>|
 |  Abril   9 | `14`{: .fw-700 .fs-5} `Iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)--[9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)--[9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)--[0](0) <br><br>[Presentacion](https://docs.google.com/presentation/d/1rDBkT9lfErg1HqbIh_3iyJEhR1MgsZdORyLPZqWsdAw/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec11/lec11.ipynb){: .btn .float-left} |
 
 
-|Semana 6|
+|Semana 7|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |  Abril   14 | `14`{: .fw-700 .fs-5} `Continuacion Iteraciones`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)--[9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)--[9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)--[0](0) <br><br>[Presentacion](https://docs.google.com/presentation/d/1rDBkT9lfErg1HqbIh_3iyJEhR1MgsZdORyLPZqWsdAw/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec11/lec11.ipynb){: .btn .float-left} |
 | Abril 16     | `15`{: .fw-700 .fs-5} `Problema Monty Hall`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1pa0POcadBgwSazDriGAOaPku-nyx0RMub7a_E_iVYXQ/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec12/lec12V1.ipynb){: .btn .float-left} <br><br>|
 
-|Semana 7|
+|Semana 8|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 | Abril 21     | `16`{: .fw-700 .fs-5} `Probabilidad `{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)--[10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)--[10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1C7BBjaXR3MgTkOs6tT3mBxq4LuMMoUEEhWLlRBp8PEs/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec13/lec13.ipynb){: .btn .float-left}<br><br>
@@ -83,14 +83,14 @@ nav_order: 1
 
 
 
-|Semana 8|
+|Semana 9|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
 |Abril 28 | `17`{: .fw-700 .fs-5} `Modelos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html)--[10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html)--[10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/12L3Ode23eJY1hIrSHAKEoM0vykUwZBq1wegkVQitqs4/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec14/lec14_v2.ipynb){: .btn .float-left}  <br><br>|
 |  Abril  30     | `18`{: .fw-700 .fs-5} `Comparación de distribución`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)--[11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)--[11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ox2oDF6FpTTSshY6P4RHLU2z3yiQG3AvwKiMIvMymiY/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec17/lec17.ipynb){: .btn .float-left}  <br><br>[](){: .label .label-green .float-left  }|
 
 
-|Semana 9|
+|Semana 10|
 |  Fecha   | Sesion          |
 |:---------|:--------------- |
  | Mayo    5   | `18`{: .fw-700 .fs-5} `Decisiones e incertidumbre`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)--[11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1M2GgRzLbd5ay4wacva9NNEIlMycCH0WiMvm-3srAIzA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec18/lec18.ipynb){: .btn .float-left}<br><br>[Lab06: Pruebas de hipotesis ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab06-V1/lab06.ipynb){: .label .label-green .float-left  }<br> `(Entrega    14 Mayo)`{: .label .label-yellow} |  
@@ -103,6 +103,18 @@ nav_order: 1
 |:---------|:--------------- |
 |  Mayo   19  | `23`{: .fw-700 .fs-5} `Intervalos de confianza`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13](https://inferentialthinking.com/chapters/13/Estimation.html)--[13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html)--[13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1E-A-j2R5SypQygMA24nXrWpqUtf-Oe0G0zyvYmYlNpk/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec22/lec22_.ipynb)| 
 | Mayo   21| `24`{: .fw-700 .fs-5} `Interpretar los intervalos`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)--[13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1msjxyWZrxGha6fJV5pX8ZfrXnAiCypsDudypdYRVU8M/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec23/lec23.ipynb){: .btn .float-left} <br><br>[Lab08: Intervalos de confianza](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab08/lab08.ipynb ){: .label .label-green .float-left  }<br> <br> `(Entrega  Mayo  28)`{: .label .label-yellow}| 
+
+
+
+|Semana 12|
+|  Fecha   | Sesion          |
+|:---------|:--------------- |
+|    Dec 9   | `25`{: .fw-700 .fs-5} `Media, desviacion estandar y distribucion normal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)--[14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html)--[14.2](https://inferentialthinking.com/chapters/14/2/Variability.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1HiBcZEcMZjmUIfUHXWHJupzLO1Qmy2xknMBvLfdbYVA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec24/lec24.ipynb){: .btn .float-left}  |
+|   Dec   11  | `26`{: .fw-700 .fs-5} `La distribución normal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)--[14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1b1Wi8symu-2zI9_a7OpaeLbfXRciq95y2ZdmOWdjn_U/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec25/lec25.ipynb)| 
+
+<!-- 
+{: .btn .float-left}<br><br>[Lab10: Regresión lineal](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab10/lab10.ipynb -->
+
 
 
 <!-- <br><br>[Lab09: Distribucion normal ](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab09/lab09.ipynb ){: .label .label-green .float-left  } -->
