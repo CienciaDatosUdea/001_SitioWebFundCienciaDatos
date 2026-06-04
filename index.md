@@ -112,6 +112,12 @@ nav_order: 1
 |    Mayo 26   | `25`{: .fw-700 .fs-5} `Media, desviacion estandar y distribucion normal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)--[14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html)--[14.2](https://inferentialthinking.com/chapters/14/2/Variability.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1HiBcZEcMZjmUIfUHXWHJupzLO1Qmy2xknMBvLfdbYVA/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec24/lec24.ipynb){: .btn .float-left}  |
 |   Mayo 28 | `26`{: .fw-700 .fs-5} `La distribución normal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)--[14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1b1Wi8symu-2zI9_a7OpaeLbfXRciq95y2ZdmOWdjn_U/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec25/lec25.ipynb)| 
 
+
+|Semana 13|
+|   Junio 4   | `27`{: .fw-700 .fs-5} `Correlación`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15](https://inferentialthinking.com/chapters/15/Prediction.html)--[15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) <br><br><br><br>|
+|     | `30`{: .fw-700 .fs-5} `Regresión lineal`{: .fw-700 .fs-5} <br><br> _`Lecturas:`{: .fw-700 .fs-3}_[15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html) <br><br>[Presentacion](https://docs.google.com/presentation/d/1ZZjKyHdGjMT6cuHnI8THghfTlawtMqpw02h-Z4OMJdE/edit?usp=sharing){: .btn .float-left} [Notebook_Sesion](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lec/lec26/lec26.ipynb){: .btn .float-left}  <br><br>|
+
+
 <!-- 
 {: .btn .float-left}<br><br>[Lab10: Regresión lineal](https://cdudea.org/hub/user-redirect/lab/tree/lab/semestre2026-01/lab/lab10/lab10.ipynb -->
 
