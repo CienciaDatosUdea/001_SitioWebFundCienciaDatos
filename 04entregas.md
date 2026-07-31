@@ -14,11 +14,15 @@ Entiendo que cualquier violación a este acuerdo de honestidad será considerada
 Puede revisar las instrucciones de entrega en este [link](https://docs.google.com/presentation/d/1vxzjLlmmjAMjNbW86etDO6KgpPabZ0xGaG_6unkGV_8/edit?usp=sharing
 )
 
+## Carmen de Viboral
 
 | Entrega  |  Fecha Limite  |
-|<a href="https://classroom.google.com/c/ODQ2ODI5ODgzNzEw/a/Nzk3MTYzNjQ5NTQw/details" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1); color: white;"> Labs y tareas</a> |Entregas link a Classroom |
+|<a href="https://classroom.google.com/u/2/c/ODcxNDE5Mjc0MDE5" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1); color: white;"> Labs y tareas</a> |Entregas link a Classroom |
 
+## Medellín
 
+| Entrega  |  Fecha Limite  |
+|<a href="https://classroom.google.com/u/2/c/ODcxNDE3ODMyMTI4" class="btn fs-5 mb-4 mb-md-0" style="background-color: rgba(0, 92, 9, 1); color: white;"> Labs y tareas</a> |Entregas link a Classroom |
 
 <!-- 
 
