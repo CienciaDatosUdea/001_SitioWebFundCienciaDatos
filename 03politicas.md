@@ -75,6 +75,7 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 | HERNAN SALINAS      | MJ 16-18     | hernan.salinas@udea.edu.co     |
 | SAMUEL  GALLEGO     | V G1-G2      | samuel.quitiang@udea.edu.co    |
 | GUSTAVO  CASTRILLON | V  G3-G4     | gadolfo.castrillon@udea.edu.co |
+| JUAN CAMILO ARBOLEDA| MJ 16-18     | juan.arboleda2@udea.edu.co     |
 
 
 
@@ -82,7 +83,7 @@ Durante la primera hora de cada sesión, se dedicará tiempo a resolver dudas so
 
 Los laboratorios se públican en la página web del curso los día lunes, si hay un festivo, el día martes, la entrega de los laboratorios se realizaran al siguiente lunes antes de las 11pm de la noche. La entrega se realiza en a través de los formularios compartidos en clases.
 
-Hay una excepción, el  primer laboratorio será publicada el día Lunes 15 de Septiembre, y se entregará el viernes 12 en clase con el profesor. 
+<!-- Hay una excepción, el  primer laboratorio será publicada el día Lunes 15 de Septiembre, y se entregará el viernes 12 en clase con el profesor. -->
 
 ## Entrega de tareas
 
